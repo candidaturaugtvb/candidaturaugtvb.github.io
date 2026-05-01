@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Transparencia salarial",
+    "description": "Baremos claros y auditoría del sistema de decisión salarial.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Más teletrabajo",
+    "description": "Ampliación a 6 días mensuales sin coste adicional para el centro.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Conciliación real",
+    "description": "Flexibilidad horaria y vacacional para equilibrar vida personal y profesional.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

@@ -1,0 +1,24 @@
+<div class="call">
+  <div class="call-box-top">
+    {% for item in site.data.social %}
+      <a href="{{ item.link }}" target="blank"><img width="32px" src="{{ item.image2 | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    {% endfor %}
+
+    <!--
+    {% if site.data.contact.phone %}
+        <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
+    {% endif %}
+    {% if site.data.contact.email %}
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:{{ .site.data.contact.email }}">
+        {{ site.data.contact.email }}
+      </a>
+    </div>
+    {% endif %}-->
+  </div>
+    {% if include.show_button %}
+      <div class="call-box-bottom">
+        <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
+      </div>
+    {% endif %}
+</div>
