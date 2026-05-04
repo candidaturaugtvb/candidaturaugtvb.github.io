@@ -4,8 +4,6 @@ layout: page
 description: Un programa para Vicomtech - Por un futuro compartido
 ---
 
-# PROGRAMA ELECTORAL
-
 ## Un programa para Vicomtech: Por un futuro compartido
 
 Estamos ante un momento histórico para todas las personas que formamos parte de este centro. Por primera vez en sus 25 años de trayectoria, los trabajadores y trabajadoras de Vicomtech vamos a tener la oportunidad de ejercer nuestro derecho a voto para elegir a nuestros Representantes.

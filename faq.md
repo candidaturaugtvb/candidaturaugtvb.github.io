@@ -4,8 +4,6 @@ layout: page
 description: Preguntas frecuentes sobre la candidatura
 ---
 
-# Preguntas Frecuentes
-
 ## ¿Qué es el comité de empresa?
 
 El comité de empresa es el órgano de representación de los trabajadores en empresas de más de 50 empleados. Su función es defender los derechos laborales y negociar mejoras con la dirección.
