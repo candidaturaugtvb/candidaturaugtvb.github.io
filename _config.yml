@@ -2,7 +2,6 @@ baseurl: '/'
 permalink: pretty
 title: 'Candidatura UGT Vicom Bilbao'
 
-destination: docs
 
 logo:
   mobile: "images/logo/logo-mobile.png"
