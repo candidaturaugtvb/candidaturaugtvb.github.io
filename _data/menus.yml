@@ -12,14 +12,11 @@ main:
     url: "/faq/"
     weight: 4
   - name: "Quiénes Somos"
-    url: "/about/"
-    weight: 5
-  - name: "Equipo"
     url: "/team/"
-    weight: 6
+    weight: 5
   - name: "Contacto"
     url: "/contact/"
-    weight: 7
+    weight: 6
 
 footer:
   - name: "Inicio"

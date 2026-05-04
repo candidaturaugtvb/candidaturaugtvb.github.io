@@ -176,4 +176,4 @@ Es fundamental que la línea entre vida laboral y personal no se desdibuje.
 
 ---
 
-¿Tienes dudas o sugerencias? Escríbenos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com)
+¿Tienes dudas o sugerencias? Escríbenos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o búscanos en los descansos, sabes dónde encontrarnos.  

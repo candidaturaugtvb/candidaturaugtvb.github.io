@@ -21,6 +21,6 @@ Escríbenos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com)
 
 ## Sobre la Candidatura
 
-Somos una candidatura respaldada por UGT, formada por trabajadores y trabajadoras de todas las divisiones de Vicomtech. Contamos con asesoramiento jurídico externo especializado que nos permite actuar con plena independencia.
+Somos una candidatura respaldada por UGT, formada por trabajadores y trabajadoras de diversas divisiones de Vicomtech. Contamos con asesoramiento jurídico externo especializado que nos permite actuar con plena independencia.
 
 Nuestro objetivo es representar los intereses de la plantilla y trabajar por mejores condiciones laborales mediante el diálogo constructivo con la dirección.
