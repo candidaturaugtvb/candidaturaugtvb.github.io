@@ -4,10 +4,6 @@ layout: page
 description: Preguntas frecuentes sobre la candidatura
 ---
 
-## ¿Qué es el comité de empresa?
-
-El comité de empresa es el órgano de representación de los trabajadores en empresas de más de 50 empleados. Su función es defender los derechos laborales y negociar mejoras con la dirección.
-
 ## ¿Cuándo son las elecciones?
 
 Las elecciones son el viernes 8 de Mayo, a entre las 10h y las 11h.
@@ -25,14 +21,12 @@ Nuestra lista cuenta con el respaldo jurídico externo del sindicato UGT, lo que
 Puedes escribirnos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o unirte a nuestro [canal de Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) o [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t).
 
 ## ¿Qué temas son prioritarios para vuestra candidatura?
-
 Nuestras prioridades incluyen:
-- Transparencia salarial
-- Más teletrabajo
-- Vacaciones flexibles
-- Mejora en viajes y dietas
-- Conciliación real
-- Gestión del traslado a MUBIL
+- Coordinación con el comité de Donosti en la mejora de temas comunes: Carrera profesional, Teletrabajo, Salarios, Conciliación, Horas extra, Flexibilidad vacacional...
+- Movilidad a nuestra oficina de Zorrozaurre.
+- Desplazamientos a otras sedes, intrínsecos a viajes...
+- Traslado a futura sede de Punta Norte.
+- Delegación de Sistemas /Mantenimiento.
 
 
 ---
