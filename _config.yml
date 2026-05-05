@@ -6,7 +6,7 @@ title: 'Candidatura UGT Vicom Bilbao'
 logo:
   mobile: "images/logo/logo.png"
   mobile_height: "32px"
-  mobile_width: "32px"
+  #mobile_width: "32px"
   desktop: "images/logo/logo.png"
   desktop_height: "32px"
   #desktop_width: "192px"
