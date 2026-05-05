@@ -20,13 +20,14 @@ bodyClass: "page-teams"
                 </div>
                 {% endif %}
                 <div class="team-meta">
-                    <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
-                    <p class="team-description">{{ team.jobtitle }}</p>
+                    <!--<h1 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h1>-->
+                    <h1 class="team-name" style="color:#a01b16;">{{ team.title }}</h1>
+                    <p class="team-description" style="font-size:22px;">{{ team.jobtitle }}</p>
                     {% if team.linkedinurl %}
                     <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
                     {% endif %}
                 </div>
-                <div class="team-content">{{ team.excerpt | truncate: 120 }}</div>
+                <!--<div class="team-content">{{ team.excerpt | truncate: 120 }}</div>-->
             </div>
         </div>
         {% endfor %}

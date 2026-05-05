@@ -1,27 +1,54 @@
 [
   {
-    "title": "Transparencia salarial",
-    "description": "Baremos claros y auditoría del sistema de decisión salarial.",
+    "title": "Carrera profesional",
+    "description": "Adaptar los requisitos para que reflejen mejor la realidad.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/carrera.png",
       "width": 80,
       "height": 80
     }
   },
   {
     "title": "Más teletrabajo",
-    "description": "Ampliación a 6 días mensuales sin coste adicional para el centro.",
+    "description": "Secundar propuesta de Donosti: Ampliación a 6 días mensuales sin coste adicional para el centro.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/telelana.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Conciliación real",
-    "description": "Flexibilidad horaria y vacacional para equilibrar vida personal y profesional.",
+    "title": "Salarios",
+    "description": "Transparencia y rangos salariales claros por categoría.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/salarios.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Conciliación laboral",
+    "description": "Flexibilidad horaria para equilibrar vida personal y profesional.",
+    "image": {
+      "url": "images/features/conciliacion.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Horas extra",
+    "description": "Revisiones periódicas de carga de trabajo y bolsa de horas.",
+    "image": {
+      "url": "images/features/horas-extra.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Flexibilidad vacacional",
+    "description": "Flexibilidad vacacional real.",
+    "image": {
+      "url": "images/features/vacaciones.png",
       "width": 80,
       "height": 80
     }

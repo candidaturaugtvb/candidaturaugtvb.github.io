@@ -1,10 +1,13 @@
 ---
 title: Contacto
 layout: contact
+intro_image: "images/vicom-fotos/vicom2.jpeg"
 description: Contacto
 ---
 
 Te animamos a acercarte y compartir cualquier duda o sugerencia: estamos aquí para escucharte y sabes dónde nos sentamos.
+
+También hemos dejado habilitado el [formulario anónimo](https://docs.google.com/forms/d/e/1FAIpQLSchDMTvnPbWFBG2NHiizqqbuknfHvnJRsDU7NWJ7pcvw7Jy1Q/viewform?usp=dialog) para que puedas trasladarnos tus preocupaciones.
 
 ## Canales de Comunicación
 

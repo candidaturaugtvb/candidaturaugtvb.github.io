@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Mobilidad a Zorrozaurre",
+    "description": "Estudiar posibilidades de mejora de transporte a la isla.",
+    "image": {
+      "url": "images/features/transporte.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Desplazamientos",
+    "description": "Adaptar procedimientos a la sede de Bilbao.",
+    "image": {
+      "url": "images/features/desplazamientos.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Delegación de Sistemas / Mantenimiento",
+    "description": "Luchar por servicios de Sistemas y Mantenimiento comparables a Donosti.",
+    "image": {
+      "url": "images/features/sistemas.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Traslado a la futura sede de Punta Norte",
+    "description": "Asegurar que no se repitan los errores del pasado en traslados a nuevas sedes (Zorrozaurre, MUBIL...).",
+    "image": {
+      "url": "images/features/nueva-sede.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

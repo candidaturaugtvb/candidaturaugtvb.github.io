@@ -50,8 +50,22 @@ bodyClass: "page-home"
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-
+      <h1>Puntos principales de nuestro programa</h1>
+      <h2>Temas generales (coordinación con el comité de Donosti)</h2>
       {% for feature in site.data.features %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </div>
+      {% endfor %}
+
+      <h2>Temas particulares de Bilbao</h2>
+      {% for feature in site.data.features-bilbo %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
@@ -67,7 +81,6 @@ bodyClass: "page-home"
         <a class="button button-primary" href="{{ "programa" | relative_url }}">Ver Programa Completo</a>
       </div>
     </div>
-
     </div>
   </div>
 </div>
