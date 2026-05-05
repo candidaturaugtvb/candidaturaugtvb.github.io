@@ -1,7 +1,7 @@
 [
   {
     "title": "Mobilidad a Zorrozaurre",
-    "description": "Estudiar posibilidades de mejora de transporte a la isla.",
+    "description": "Presionar al Ayuntamiento para mejores líneas de transporte y estaciones de Bilbaobizi.",
     "image": {
       "url": "images/features/transporte.png",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Desplazamientos",
-    "description": "Adaptar procedimientos a la sede de Bilbao.",
+    "title": "Desplazamientos Justos",
+    "description": "Reconocimiento de los traslados en el reglamento interno y cobertura real para quienes viven en toda Bizkaia.",
     "image": {
       "url": "images/features/desplazamientos.png",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Delegación de Sistemas / Mantenimiento",
-    "description": "Luchar por servicios de Sistemas y Mantenimiento comparables a Donosti.",
+    "title": "Sistemas y Mantenimiento in-situ",
+    "description": "Queremos soporte permanente en Bilbao para acabar con las esperas.",
     "image": {
       "url": "images/features/sistemas.png",
       "width": 80,

@@ -6,3 +6,13 @@
     flex: 1 0 0;
   }
 }
+
+.title-container {
+    display: flex;
+    align-items: center; /* Vertically centers the h1 and the icon */
+    gap: 15px; /* Adjust this value to add space between the text and icon */
+}
+
+.title-container .title {
+    margin: 0; /* Removes default h1 margins so it aligns cleanly */
+}

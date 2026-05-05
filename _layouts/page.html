@@ -7,8 +7,20 @@ bodyClass: "page-basic"
     <div class="row justify-content-start">
         <div class="col-12 col-md-8">
             <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                <div class="content">{{content}}</div>
+                <div class="title-container">
+                    <h1 class="title">{{page.title}}</h1> 
+                    {% if page.pdf-file %}
+                    <align left><a href="{{ page.pdf-file | relative_url}}" target="_blank"><img width="56px" src="/images/features/Icon_pdf_file.svg"></a></align>
+                    {% endif %}
+                    </div>
+                    <div class="content">{{content}}</div>
+                    {% if page.pdf-file %}
+                    <div class="row justify-content-center">
+                        <div class="col-auto">
+                            <a class="button button-primary" href="{{ page.pdf-file | relative_url}}" target="_blank">Ver Programa en PDF</a>
+                        </div>
+                    </div>
+                    {% endif %}
             </div>
         </div>
     </div>

@@ -1,7 +1,7 @@
 [
   {
     "title": "Carrera profesional",
-    "description": "Adaptar los requisitos para que reflejen mejor la realidad.",
+    "description": "Transparencia y justicia en las evaluaciones.",
     "image": {
       "url": "images/features/carrera.png",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Salarios",
-    "description": "Transparencia y rangos salariales claros por categoría.",
+    "description": "Transparencia, tablas claras y competitivas frente al sector.",
     "image": {
       "url": "images/features/salarios.png",
       "width": 80,
@@ -37,7 +37,7 @@
   },
   {
     "title": "Horas extra",
-    "description": "Revisiones periódicas de carga de trabajo y bolsa de horas.",
+    "description": "Gestión justa y compensación oficial de la carga de trabajo.",
     "image": {
       "url": "images/features/horas-extra.png",
       "width": 80,

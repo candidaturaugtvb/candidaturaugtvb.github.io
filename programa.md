@@ -1,6 +1,7 @@
 ---
 title: Programa Electoral
 layout: page
+pdf-file: "/images/programa.pdf"
 description: Un programa para Vicomtech - Por un futuro compartido
 ---
 
