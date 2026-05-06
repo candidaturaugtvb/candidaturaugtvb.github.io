@@ -2,177 +2,171 @@
 title: Programa Electoral
 layout: page
 pdf-file: "/images/programa.pdf"
-description: Un programa para Vicomtech - Por un futuro compartido
+description: Por un Vicomtech en el que quedarnos.
 ---
 
-## Un programa para Vicomtech: Por un futuro compartido
+# Por un Vicomtech en el que quedarnos
 
-Estamos ante un momento histórico para todas las personas que formamos parte de este centro. Por primera vez en sus 25 años de trayectoria, los trabajadores y trabajadoras de Vicomtech vamos a tener la oportunidad de ejercer nuestro derecho a voto para elegir a nuestros Representantes.
+## <span style="color:#a01b16">PROGRAMA CONJUNTO DE LA CANDIDATURA DE UGT</span>
 
-Esta es, sin duda, una excelente noticia. Dado el crecimiento y la relevancia que ha alcanzado nuestro centro, se hacía indispensable contar con un canal de comunicación bidireccional, profesional y sólido que sirviera de puente entre la plantilla y el centro. Este hito ha sido posible gracias al impulso de la candidatura de UGT que hoy os presenta este programa, con la firme convicción de que una representación democrática es la base para construir un entorno laboral más justo y participativo.
+Los tres candidatos y candidatas a delegados sindicales respaldados por UGT queremos remar  en equipo  por el beneficio de nuestros compañeros y compañeras. Por ello, presentamos este programa conjunto, declarando así, en primer lugar, nuestro firme propósito de coordinarnos plenamente en nuestras propuestas y, a largo plazo, en el desarrollo de nuestras funciones como Representación Legal de las personas Trabajadoras (RLT), si finalmente conseguimos vuestro voto y confianza.
 
-Desde esta candidatura, tenemos una certeza clara: **el capital más valioso de Vicomtech son las personas**. Más allá de los servidores, las patentes o los edificios, la verdadera excelencia del centro reside en el talento, la dedicación y la creatividad de quienes lo componen. Por ello, consideramos prioritario cuidar ese capital humano, atendiendo vuestras preocupaciones, aspiraciones y bienestar laboral. Estamos convencidos de que una plantilla feliz, escuchada y valorada repercute directamente en la calidad investigadora y en el éxito global de nuestra organización.
+Vicomtech se está consolidando como un centro de referencia tecnológica, y somos **las personas trabajadoras quienes constituimos el motor** que hace posible este crecimiento y prestigio. Nuestra motivación para participar como delegados y delegadas nace del deseo de que el centro sea un lugar donde desarrollar nuestra actividad profesional resulte no solo productivo, sino gratificante para toda la plantilla. Somos conscientes de que uno de los mayores retos actuales es la **retención del talento**; para frenar la marcha de profesionales, es imprescindible mejorar unas condiciones que, a menudo, no están a la altura de los proyectos que desarrollamos ni de la realidad del sector. Queremos construir un Vicomtech mejor porque nos gusta nuestro trabajo y creemos que cuidar de quienes lo realizan debe ser la prioridad absoluta.
 
-En este sentido, nos preocupa especialmente la creciente dificultad para la atracción y retención de talento consolidado. En un sector tan competitivo como el nuestro, no podemos permitirnos perder el conocimiento y la experiencia que tanto esfuerzo ha costado cultivar. Si no somos capaces de ofrecer condiciones que motiven a los mejores profesionales a quedarse con nosotros, la excelencia que define a Vicomtech y nuestra capacidad para ejecutar proyectos de vanguardia se verán comprometidas.
+Para lograr estos cambios, la participación de todas las personas trabajadoras es fundamental. La escucha activa de vuestras necesidades y el diálogo fluido con la dirección son las claves para avanzar, pero nada de esto es posible sin **el respaldo que otorga vuestro voto**. Una alta participación, como la vivida recientemente en Donostia de cerca del 90%, es lo que nos permite hablar con una voz fuerte y clara ante la empresa. Nos comprometemos a mantener una transparencia total en nuestra gestión, pero para que esa representatividad sea efectiva, necesitamos que os involucréis y nos ayudéis a convertir vuestras inquietudes en mejoras reales y tangibles.
 
-Nuestra propuesta nace con un espíritu constructivo y dialogante. Venimos a proponer mejoras que beneficien a todas las partes. Queremos trabajar para transformar las inquietudes de la plantilla en soluciones reales, garantizando que Vicomtech siga siendo no solo un referente tecnológico, sino también un ejemplo de bienestar laboral y respeto profesional. Creemos que ha llegado el momento de dar este paso juntos. Venimos a mejorar las cosas, con transparencia y compromiso, para asegurar que el futuro de Vicomtech sea tan brillante como el talento de las personas que lo hacen posible.
+Por último, debemos atender a la realidad específica de nuestra sede. Vicomtech Bilbao es un proyecto joven que todavía está ajustando su encaje en el funcionamiento global de la entidad. Hasta ahora, muchas directivas se han diseñado pensando exclusivamente en la sede de Donostia, y es vital que, ante la expansión de Vicomtech, adaptemos esos mecanismos para **garantizar que nadie se quede atrás**. Nuestro objetivo es asegurar que todas las personas trabajadoras, independientemente de su ubicación, puedan desarrollar su labor con las mismas garantías, consolidando una identidad propia para Bilbao que sume al conjunto del centro.
 
-Ahora bien, somos conscientes de que el valor de estas propuestas se demuestra en el diálogo con Dirección, un proceso que afrontamos con la máxima seriedad y rigor profesional. Para transformar estas ideas en realidades que nos beneficien a todos, es fundamental contar con un respaldo amplio y sólido de la plantilla. Por eso, **vuestro voto es clave**: un apoyo mayoritario nos otorga la legitimidad necesaria para representar vuestros intereses con mayor claridad y asegurar que la voz de los trabajadores y trabajadoras sea escuchada y valorada en el futuro de nuestro centro. Estamos convencidos que esto además redundará en que el centro siga manteniendo la excelencia que le caracteriza.
+Así pues, debemos tener en cuenta las condiciones especiales de esta convocatoria: por ley, la sede de Bilbao debe contar con su propia representación, pero no debemos olvidar que es parte de una organización de mayor ámbito. En este sentido, tenemos un fuerte compromiso de **trabajar codo con codo con el comité de Donosti** para trabajar todas juntas por los temas que nos afectan por igual. De la misma manera, también buscamos trabajar por los asuntos que afectan especialmente a la sede de Bilbao.
 
-Para que este proyecto tenga éxito, tenemos claro que lo primordial es y será siempre **escuchar a la gente**, y ese es el compromiso innegociable que adquieren los miembros de esta candidatura que resulten elegidos. Es intención de esta candidatura mantener canales de comunicación con los trabajadores, mediante el recién inaugurado tablón, así como comunicaciones y reuniones de trabajadores. Las medidas que detallamos a continuación no son una lista cerrada, sino una pequeña muestra representativa de las reclamaciones e inquietudes que nos habéis transmitido en nuestros "cafés compartidos".
+Por tanto, dividimos a continuación las propuestas en dos líneas: temas generales que consideramos de gran importancia, alineados con los objetivos del comité de Donosti, y temas propios de la sede de Bilbao.
 
----
+# 1. Temas generales
 
-## Bloque 1: Salarios y Carrera Profesional
+En el trabajo del día a día es patente la estrecha relación que tenemos con nuestros compañeros y compañeras de la sede principal. Casi el total de las políticas internas nos afectan a las dos partes por igual. Esos son los temas que consideramos de *ámbito general*, y sobre los que versan las siguientes propuestas.
 
-### Ejes Estratégicos: Previsibilidad y Transparencia, porque tu futuro no puede ser una incógnita
+## 1.1. Coordinación con comité de Donostia
 
-Para que un centro de excelencia funcione, sus profesionales necesitan saber qué esperar de su carrera y de su nómina. No queremos arbitrariedad ni opacidad; queremos un sistema transparente basado en reglas claras y horizontes definidos.
+Dado que estos temas son comunes, proponemos una coordinación plena con la RLT de Vicomtech Donostia. Compartimos la misma voluntad de defender los derechos e intereses de quienes formamos parte de Vicomtech. Caminamos de la mano con la sede principal pero con el firme compromiso de que la voz de Zorrozaurre tenga fuerza, identidad y sea escuchada, porque cuando colaboramos y nos cuidamos entre iguales nuestra unión se convierte en la fuerza que transforma realidades.
 
-### 1. Previsibilidad Salarial: Recuperar la Certidumbre
+## 1.2. Carrera profesional
 
-La estabilidad económica de la plantilla depende de que se respeten los acuerdos y los ciclos económicos. De cara al año 2026, entendemos que es importante que la política salarial siga las normas establecidas hasta ese momento y se lleven a la mayor inmediatez las siguientes medidas que han sido bloqueadas:
+Creemos que uno de los problemas principales de la retención de talento tiene su raíz en un sistema de carreras profesionales y evaluación de personal que, pese a cumplir requisitos externos, **no es suficiente para reflejar la realidad del día a día en Vicomtech**. Consideramos que la metodología de evaluación actual, especialmente en los primeros años de trabajo en el centro, genera incertidumbre y, sobre todo, sensación de que los esfuerzos realizados no son apreciados por el centro.
 
-**Desbloqueo de la cláusula IPC:** Recuperación inmediata de la subida salarial para 2026 y abono retroactivo de los retrasos. La inflación no puede seguir mermando nuestro poder adquisitivo por falta de decisión política.
+Para ilustrarlo, proponemos **un caso práctico**: Un investigador entra en plantilla en junio de 2024\. Después de unos meses de aprendizaje y adaptación, llega 2025\. La persona ya está aclimatada al entorno de Vicomtech y aportando valor real a los proyectos en los que participa. En junio de 2025 cumple su primer aniversario en Vicomtech, continúa trabajando y aprendiendo e incluso empieza a participar en alguna publicación científica. En los últimos meses del año, cuando la persona lleve casi año y medio trabajando en Vicomtech, ésta realizará su primera evaluación de trabajo. ¿El resultado? **Una nota muy pobre**, puesto que solo se habrán contado sus primeros seis meses de trabajo en un marco evaluativo que requiere trabajar todo el año y gestionar proyectos o participar en publicaciones para lograr una buena nota. Esta persona tendrá que trabajar en Vicomtech **más de dos años hasta que empiece a ver su trabajo recompensado en la evaluación,** aunque esté aportando a Vicomtech desde hace meses. 
 
-**Garantía de Bonos y Promociones:** Los compromisos adquiridos deben cumplirse. Pedimos el desbloqueo de los bonos y ascensos pactados para devolver la confianza en los procesos internos.
+El problema no es únicamente la demora de la evaluación. Los **periodos de baja y permiso de paternidad o maternidad** penalizan gravemente las puntuaciones, puesto que el cómputo se realiza sobre el total de horas de convenio, en vez de las horas trabajadas. Así mismo, periodos con una baja carga de trabajo, ajena a decisiones individuales también impactan negativamente debida a la falta de descargos en proyectos específicos. Los sistemas de evaluación también están **sesgados hacia el personal de más veteranía**, puesto que se utiliza el mismo sistema desde G1 hasta G4, lo que no refleja la realidad de que cada puesto tiene distintas responsabilidades. 
 
-### 2. Transparencia Salarial y Baremos Objetivos
+Por último, las carreras profesionales del personal no investigador (Staff) carecen de incentivos reales que fomenten el crecimiento profesional y la retención del talento. En el caso del personal de Prototipado y Despliegue de Software, esto último es fundamental, ya que mantienen activos y atesoran valioso conocimiento institucional que es muy difícil y costoso de sustituir si los incentivos para quedarse en el centro no son competitivos.
 
-En la era de la IA transparente, no podemos permitir que nuestra retribución dependa de una "caja negra".
+Por ello, nos comprometemos a trabajar con el Departamento de Personas para trasladar estas inquietudes y **apoyar una reforma del sistema de evaluación,** que**:**
 
-**Auditoría del Sistema de Decisión (IA):** Ante la entrada en vigor de la normativa de agosto de 2026, queremos aprovecharla para profundizar en la transparencia y creemos que es necesaria la auditoría del algoritmo de subida salarial. Un sistema de "alto riesgo" requiere una vigilancia estricta. Además, un sistema como este requiere, según el propio AI Act, una obligación de transparencia y comunicación a la plantilla.
+* **Refleje la realidad** de los investigadores, investigadoras y staff de todas las categorías.   
+* **Premie e incentive el buen trabajo y la implicación con el centro**.   
+* Cumpla con los requisitos de auditorías externas, pero también con las **necesidades internas del personal**.  
+* Garantice el **progreso real de las mujeres** investigadoras, eliminando las barreras del techo de cristal mediante la revisión de sesgos en “la nota de corte” y asegurando que la conciliación o el uso de permisos no supongan un freno para acceder a puestos de liderazgo.  
+* **Defina una carrera** profesional **sólida** **para** el personal de **staff**, con criterios de promoción transparente y que reconozca su labor de gestión y técnica como una pieza estratégica fundamental de Vicomtech, en igualdad de condiciones y oportunidades de crecimiento que la investigadora.
 
-**Baremos por Categoría y Transparencia salarial:** Implementación de tablas salariales públicas por niveles. Necesitamos criterios medibles (antigüedad, gestión de proyectos, formación) para saber exactamente cómo progresar dentro del centro, eliminando la opacidad actual. Otros centros como Tekniker, Azti, Ceit o Tecnalia cuentan con una política salarial más clara y transparente que la nuestra.
+## 1.3. Teletrabajo: Flexibilidad para una Realidad Digital
 
-### 3. Políticas Salariales Basadas en Datos: Ciencia aplicada a nuestra retribución
+En un sector tecnológico como el nuestro, donde la gran mayoría de nuestras tareas son de **naturaleza digital**, el modelo de presencialidad rígida ha quedado obsoleto. Entendemos que el teletrabajo no es solo una medida de conciliación, sino una herramienta de eficiencia y bienestar que debe adaptarse a la realidad de quienes formamos la sede de Bilbao.
 
-En un centro como el nuestro, donde el análisis de datos es el motor de nuestra actividad, la política salarial no puede ser una excepción. No pedimos mejoras basadas en percepciones, sino en evidencias.
+El desplazamiento diario a nuestras instalaciones supone una inversión de tiempo y energía que, en muchos casos, no aporta valor al resultado de nuestro trabajo. En el contexto específico de Bilbao, la **escasez de opciones de transporte público** directo nos obliga, en gran medida, a depender del vehículo privado. Es por esto que proponemos incrementar los días de trabajo en remoto.
 
-**Análisis y Transparencia Legal:** Según el Real Decreto 902/2020, de 13 de octubre, de igualdad retributiva entre mujeres y hombres, la representación de los trabajadores tiene acceso al Registro Retributivo. El Registro Retributivo es un documento obligatorio en el que la empresa desglosa los valores medios y las medianas de los salarios, complementos y percepciones de su plantilla, agrupados por categorías profesionales y sexo, para garantizar la transparencia y la igualdad salarial. Haciendo uso del derecho del Comité al acceso a los registros retributivos según la normativa vigente, realizaremos un tratamiento analítico y exhaustivo de los datos salariales de la plantilla.
+Somos plenamente conscientes de que la falta de flexibilidad es uno de los motivos principales por los que excelentes profesionales deciden abandonar Vicomtech en busca de otras empresas. Si queremos que nuestro centro sea un referente en Bizkaia, debemos ofrecer condiciones competitivas. El teletrabajo es, hoy en día, un requisito mínimo para **retener el talento** que hace posible nuestra excelencia investigadora.
 
-**Benchmarking con el Entorno BRTA:** Basándonos en el análisis retributivo utilizaremos indicadores objetivos y comparativas (como los informes salariales de LKS) para medir nuestra situación real frente a otros centros de la Red Vasca de Ciencia, Tecnología e Innovación (BRTA).
+En este sentido, secundamos plenamente la propuesta del programa de la sección LAB del comité de Donosti para **ampliar de 4 a 6 los días de teletrabajo mensuales**. Esta medida:
 
-**Tendencia a la convergencia y competitividad en el mercado:** Si los datos detectan brechas o diferencias significativas respecto al mercado y a centros de nuestra misma categoría, plantearemos una hoja de ruta clara para cerrar esa brecha a medio plazo y garantizando la viabilidad económica del centro. Ofreceremos soluciones sostenibles y viables que armonicen nuestra competitividad salarial con la excelencia técnica que aportamos. En base a estos principios se planteará una negociación basada en datos para las políticas salariales a aplicar a partir del año 2027.
+* Se mantiene dentro del **margen del 30% que no repercutirá en costes adicionales para Vicomtech** (según la Ley 10/2021).  
+* Tiene un impacto altísimo en la satisfacción de las personas.  
+* Nos equipara con las condiciones de otros centros tecnológicos y empresas del sector que ya disfrutan de esta flexibilidad.
 
-### 4. Carrera Profesional: Compromiso y Agilidad en los Ascensos
+## 1.4. Salarios
 
-Queremos un sistema donde cumplir los objetivos garantice el progreso profesional sin esperas injustificadas.
+La ausencia de salarios competitivos frente al sector es una de las razones fundamentales por las que a Vicomtech le cuesta tanto retener el talento. Aunque entendemos y valoramos la transferencia de conocimiento y personal a la industria como parte de nuestra misión, esta no puede producirse a costa de perder a profesionales de gran valía que el centro ha dedicado años y esfuerzo en formar. No podemos permitir que Vicomtech sea simplemente una "escuela de paso"; el valor generado por la plantilla debe verse reflejado en sus condiciones para garantizar la sostenibilidad del centro. 
 
-**Compromiso de Ascenso por Hitos:** El cumplimiento de los criterios establecidos debe traducirse en un ascenso efectivo en un tiempo limitado. Debemos evitar situaciones donde, tras alcanzar los objetivos, el profesional permanezca estancado en su categoría anterior por falta de automatismo. Así pues, en Vicomtech se han dado situaciones de G4s que presentan el doctorado, entendemos que no es una situación ideal y que debería cambiar. Creemos además, que estos ascensos ya sea tanto categorías puras (Gs o Ss) como en cargos dentro del departamento (lider de línea, lider de laboratorio), deberían tener definido un beneficio retributivo acorde a las responsabilidades que traen consigo, y que este fuera transparente y claro antes de acceder al puesto.
+Es comúnmente conocido que Vicomtech no es una empresa, sino un centro de investigación sin ánimo de lucro. Aunque entendamos que no trabajamos en una empresa privada con beneficios millonarios, la realidad es clara: el coste de residir en el País Vasco es uno de los más altos del estado. Sin un salario digno y competitivo, los trabajadores y trabajadoras no pueden permitirse permanecer en Vicomtech, viéndose incentivados a buscar opciones más competitivas en la comunidad o mudarse a otra.
 
-Por otro lado, saludamos la segmentación de las actuales categorías que fue anunciada recientemente por dirección. Creemos que las categorías anteriores eran demasiado amplias y podían provocar que la plantilla se desalentara ante hitos que no ofrecían un ascenso próximo. Creemos necesario trabajar en esta línea y nos gustaría ayudar a definir estas nuevas subcategorías.
+Aun así, entendemos que aumentar directamente los salarios a toda la plantilla no es realista. Por ello, sin olvidarlo, tenemos la intención de priorizar otro aspecto: **la transparencia salarial**. Esto incluye:
 
-**Eficiencia en la Evaluación 360:** Traslado de las evaluaciones al primer trimestre del año. El objetivo es que el reconocimiento al trabajo realizado y los nuevos retos tengan un impacto real en el mismo ejercicio, eliminando el actual desfase de dos años. Además, estudiaremos y propondremos mejoras para este sistema de evaluación de desempeño de cara a que no sea únicamente una herramienta de evaluación o un medio para conseguir "bonos", sino una herramienta útil para alinear los intereses del centro con el de los empleados.
+* Una documentación clara y accesible de los **rangos salariales por categoría**, incluyendo todos los puestos del centro: investigadores, staff y puestos directivos.  
+* Una **comparativa directa con otros centros del BRTA,** que operan con los mismos mecanismos de financiación que Vicomtech.  
+* Un listado concreto de **herramientas y requisitos para subidas salariales**, que incluya:  
+  * La influencia de las evaluaciones anuales.  
+  * Objetivos medibles: Antigüedad, logros académicos y profesionales.  
+* Un **canal dedicado a la negociación de los salarios pactados** con el centro.
 
-**Clarificación y Transparencia en la Transferencia de Personal:** La transferencia de talento a empresas vascas es un indicador estratégico para Vicomtech, pero no debe ser una carga imprevista para el profesional. Pedimos Transparencia desde la contratación: Consideramos que cualquier expectativa de transferencia a empresa debe comunicarse de forma clara desde el proceso de selección. Esta responsabilidad no debería caer sobre el trabajador de forma sobrevenida. A este respecto planteamos realizar un Análisis comparativo (Benchmarking) para analizar cómo gestionan este indicador otros centros tecnológicos de nuestro entorno para adoptar las mejores prácticas, asegurando que la importancia que la Dirección da a este KPI se traduzca en una estrategia de acompañamiento real, y no solo en una métrica de ejecución.
+Creemos que una mayor transparencia salarial es de interés para toda la plantilla. Una política salarial clara, estandarizada y accesible es clave para identificar compañeros y compañeras en situación de desigualdad, asegurar la paridad de condiciones entre trabajadores y trabajadoras, así como promover el buen trabajo y la realización de objetivos concretos. Consideramos que **poner toda la información sobre la mesa es el primer paso hacia unos salarios dignos** del esfuerzo que invertimos en el centro y del valor que aportamos al mismo.
 
-### 5. Definición y Desarrollo de la Carrera Profesional en Staff
+## 1.5. Horas extra: Gestión justa de la carga de trabajo.
 
-El crecimiento de Vicomtech ha sido especialmente notable en las áreas de gestión y soporte (Staff), pero este crecimiento no ha ido acompañado de una definición clara de sus roles y futuro profesional.
+Somos conscientes de que el camino hacia la excelencia y el crecimiento de Vicomtech conlleva picos de actividad donde la carga de trabajo no es uniforme. Sin embargo, este compromiso con el éxito del centro **no puede sostenerse a costa del tiempo libre y la salud de las personas trabajadoras**. Actualmente, ante entregas críticas o hitos de proyectos, gran parte del personal se ve en la tesitura de ceder de manera gratuita horas de descanso para cumplir con los objetivos. Consideramos que esta gestión "extraoficial" de las horas extra genera desprotección y falta de uniformidad. Es necesario que el esfuerzo extra sea reconocido y regularizado, garantizando que ninguna labor se realice al margen de la normativa laboral.
 
-**Manual de Funciones y Responsabilidades:** Es necesario acabar con la indefinición. Proponemos documentar de forma clara las funciones de cada puesto en Staff para evitar la asunción de tareas sobrevenidas y asegurar que cada profesional sepa qué se espera de su rol.
+Esta situación de "limbo" es también evidente en los **desplazamientos a conferencias, reuniones o eventos** cuando estos ocurren durante días no laborables o simplemente excediendo el horario laboral. El tiempo invertido en viajar por motivos laborales debe ser considerado tiempo de trabajo y, por tanto, compensado o recuperado por la plantilla. No podemos permitir que la movilidad y la representación de Vicomtech en el exterior supongan una merma del tiempo personal sin ningún tipo de retorno para quien lo aporta.
 
-**Diseño de una Carrera Profesional Específica:** Aunque al igual que los investigadores están asociados a una categoría concreta (S), el personal de Staff debe contar con un horizonte de progresión profesional, con criterios de promoción transparentes y vinculados a la experiencia y la formación continua.
+Por ello, nuestra propuesta se centra en la **oficialización de estos procedimientos mediante una "bolsa de horas" integrada en Ekhi**. Más allá de la compensación, entendemos la bolsa de horas como una **herramienta fundamental de conciliación** que devuelve el control sobre el tiempo a las personas trabajadoras. Al permitir acumular horas en periodos de alta intensidad para recuperarlas en momentos de menor carga o para atender imprevistos familiares, facilitamos una gestión dinámica de la jornada que se adapta a las necesidades personales sin sacrificar los objetivos del proyecto, promoviendo así un equilibrio real entre la vida profesional y la personal. Este sistema permitiría:
 
-### 6. Tiempo para la Formación e "I+D Personal"
+* **Registro transparente:** Contabilizar de forma clara las horas extra realizadas ante casos extremos de carga de trabajo.  
+* **Ventana de Disfrute:** Las horas acumuladas podrán ser disfrutadas en un plazo de 90 días naturales desde su generación. Esto permite una gestión dinámica y realista: concentrar horas extra durante dos semanas de entrega crítica para recuperarlas en las semanas siguientes.  
+* **Autonomía en la Recuperación:** La recuperación de horas se podrá realizar de forma **automática y autónoma** por la persona trabajadora, siempre que se respeten las **ventanas de presencialidad obligatoria reducidas** (propuestas en el apartado 1.4.1) y la jornada completa.  
+* **Registro en Teletrabajo:** El sistema debe garantizar el registro de la jornada también en días de trabajo remoto, asegurando la trazabilidad y equidad en la gestión de la bolsa de horas para toda la plantilla, sin excepción.  
+* **Gestión acordada:** El acuerdo previo con el DAR será requisito para disfrutar las horas fuera de las ventanas de presencialidad establecidas o cuando se desee acumularlas para convertir el saldo en días completos de descanso, asegurando así la planificación operativa sin obstaculizar la flexibilidad cotidiana.
 
-Para que Vicomtech siga en la vanguardia, la formación debe ser una inversión dentro de la jornada, no una actividad para el tiempo libre.
+## 1.6. Flexibilidad vacacional
 
-**Bolsa de horas para formación:** Proponemos que cada profesional disponga de un cupo de horas anuales garantizadas dentro de la jornada laboral para autoformación, seminarios o investigación en nuevas tecnologías no ligadas estrictamente al proyecto actual.
+Proponemos un mayor poder de elección del calendario laboral en general, y de las vacaciones en particular. En este sentido, proponemos que exista la posibilidad de mover vacaciones fuera del periodo estival, en el que muchas de las opciones de ocio y turismo resultan extremadamente caras y masificadas, dificultando el correcto descanso y desconexión de la plantilla. Cierto porcentaje de días debería poderse trasladar, previo acuerdo con cada DAR y acorde a las cargas de trabajo previstas. Por ejemplo, intercambiar días de verano por días en otros momentos del año, ajustado al correspondiente cómputo de horas, llevando posibles horas no ajustadas a *days off* o a la bolsa de horas propuesta.
 
----
+Secundamos también la propuesta de la candidatura LAB de Donosti respecto al día adicional de Pascua, cambiando el martes de la semana de Pascua establecido por convenio (pero no inamovible) por un día más de vacaciones de 8,25 h.
 
-## Bloque 2: Traslado a MUBIL
+## 1.7. Conciliación
 
-### Garantizar nuestra calidad de vida en la nueva ubicación
+Entendemos que el objetivo último del trabajo es permitirnos una vida plena. Para el equipo de Vicomtech, la **salud física, mental y el cuidado de nuestras relaciones y familias** son prioridades que el centro debe garantizar. En un entorno de investigación donde la pasión es el motor, no podemos permitir que esta se convierta en una justificación para el exceso de horas. Es responsabilidad de la entidad proporcionar mecanismos reales que aseguren un equilibrio saludable entre el trabajo y el resto de nuestra vida.
 
-El traslado a la nueva sede de MUBIL supone un cambio estructural que no debe traducirse en una pérdida de derechos o de bienestar para la plantilla. El Comité debe ser parte activa en la planificación para mitigar cualquier impacto negativo en la flexibilidad y los tiempos de desplazamiento. Creemos que un cambio tan importante como este exige un acuerdo entre el centro y los Representantes Legales de los Trabajadores para mitigar los efectos adversos que este pueda tener.
+Para avanzar en este compromiso, proponemos:
 
-### 1. Protección de la Flexibilidad y el Tiempo para compañeros desplazados a Mubil
+* **Actualización y mejora de las condiciones de los permisos:** La actual política interna de permisos, disponible en la plataforma “Argi” de Gestión Integral, se encuentra desactualizada, ya que no refleja las nuevas características sobre los *days off*, en vigor desde este mismo año. Además de adecuarla a la realidad actual de esos días de libre disposición, proponemos hacer una revisión de los permisos en general, mejorando las condiciones en las que se conceden, atendiendo a la tipología y casuística de cada uno.  
+* **Bolsa de urgencias familiares:** En línea con nuestra propuesta anterior de actualización de permisos, buscamos que la bolsa de horas para urgencias familiares se amplíe y recoja el acompañamiento a citas médicas de familiares en primer grado de consanguinidad, sin depender exclusivamente de los *days off*. Esto permitiría una mayor flexibilidad para adaptarse a casuísticas del día a día, casos especiales o extremos.  
+* **Flexibilidad de los horarios de presencialidad:** la actual estructura de horarios de presencia obligatoria (**9:00 a 12:45 y 14:45 a 16:45**, de lunes a jueves) limita severamente la capacidad de compatibilizar la jornada laboral con responsabilidades familiares y otros aspectos de índole personal. En línea con nuestra propuesta de **ampliación a 6 días de teletrabajo**, proponemos **reducir estas ventanas de presencialidad obligatoria**, ampliando las franjas horarias disponibles para la gestión autónoma de la jornada. Vinculado a esto, planteamos el uso de la jornada mixta o el teletrabajo de forma extraordinaria para situaciones de emergencia, como el cuidado de menores o familiares a cargo, permitiendo atender estas necesidades sin consumir días de descanso o *days off*.  
+* **Autogestión de vacaciones y festivos:** La rigidez del calendario estival actual choca con las necesidades de conciliación. Creemos que nuestra propuesta de un sistema de intercambio de jornadas que permita mover días de vacaciones fuera del periodo estival por su equivalencia horaria (Sección 1.6) facilitaría la alineación con los calendarios escolares y personales de cada persona trabajadora.  
+* **Participación activa:** Para aterrizar estas medidas, impulsaremos la formación de una **Asamblea de Madres y Padres** (y personas con responsabilidades de cuidado) en la sede de Bilbao. Queremos escuchar vuestras necesidades específicas para construir propuestas de conciliación que nazcan de la realidad de nuestra plantilla.
 
-El cambio de ubicación no puede ser una excusa para retroceder en conciliación y condiciones de trabajo.
+## 1.8. Recursos materiales: Herramientas a la altura de nuestra tecnología.
 
-**Mantenimiento de condiciones:** Negociaremos para que la flexibilidad horaria actual se respete y se adapte, si fuera necesario, a las nuevas realidades logísticas del centro.
+Actualmente, gran parte de los recursos materiales (portátiles, pantallas, cascos y periféricos) no están a la altura de la exigencia técnica de los proyectos que desarrollamos. No pedimos lujos, sino decencia técnica para realizar nuestra labor de manera eficiente y saludable.
 
-**Compensaciones por Traslado:** Creemos que para ciertas casuísticas puede proceder la aplicación de las medidas compensatorias recogidas en el Artículo 46 del Convenio Colectivo para paliar los perjuicios derivados del cambio de centro de trabajo.
+Proponemos un plan de revisión y renovación periódica del equipamiento que garantice:
 
-### 2. Soluciones de Movilidad Eficientes para Mubil
+* **Hardware competitivo:** Equipos con potencia suficiente para el desarrollo de software y computación pesada sin constantes cuellos de botella.   
+* **Ergonomía real:** Pantallas de calidad que prevengan lesiones y fatiga visual, reconociendo que nuestras herramientas de trabajo son el cimiento de nuestra productividad.  
+* **Gestión eficiente del presupuesto:** No se trata de un gasto superfluo, sino de una inversión necesaria para que el hardware deje de ser un eslabón débil de nuestra cadena productiva.
 
-Queremos llegar a nuestro puesto de trabajo de forma cómoda, económica y sostenible.
+## 1.9. Prevención de burnout y bienestar laboral: Por una salud sostenible
 
-**Lanzaderas Propias o Compartidas:** Proponemos que Vicomtech, de forma individual o en colaboración con el resto de centros que integran MUBIL, ponga a disposición de la plantilla un servicio de autobús de empresa (lanzadera) que conecte puntos estratégicos con la nueva sede.
+El compromiso con el éxito del centro no puede sostenerse a costa de la salud mental de quienes lo hacen posible. La alta carga de trabajo y los picos de actividad no deben normalizarse como un estado de "estrés permanente". Apostamos por un Vicomtech que cuide de su gente.
 
-**Presión Institucional por Transporte Público:** El centro, como parte de un polo tecnológico estratégico, debe ejercer presión junto a otras entidades ante la Diputación y las instituciones competentes. El objetivo es garantizar una red de transporte público (autobuses, frecuencias y accesos) estable, accesible y dimensionada a las necesidades de los cientos de trabajadores de la zona.
+Nuestra propuesta incluye:
 
----
+* **Protocolos de detección temprana:** Herramientas para identificar situaciones de sobrecarga antes de que deriven en burnout.  
+* **Cultura del bienestar:** Fomentar un entorno donde la salud emocional sea una prioridad, con canales de apoyo y una gestión de proyectos que respete los tiempos de descanso y desconexión.
 
-## Bloque 3: Condiciones de Trabajo
+# 2. Temas propios de la sede de Bilbao
 
-### Profesionales de Vanguardia, condiciones a la altura
+La diferencia más evidente con la sede donostiarra es la ubicación de las instalaciones, que también es la fuente de muchos problemas. Nuestro emplazamiento actual, que a veces pareciera que se quiere disfrazar como una transición a la futura sede en otra zona de la isla, es consecuencia realmente del acuerdo que tiene Vicomtech con el Ayuntamiento de Bilbao por el que éste último le cede un espacio para alojar sus oficinas. Al principio, se ubicaba en el edificio del Ensanche, donde la ubicación era excepcional, pero las instalaciones carecían del espacio necesario para crecer. Ahí es donde el Ayuntamiento, aprovechando la coyuntura, propone a Vicomtech mudarse a la flamante nueva zona de moda, Zorrozaurre, liberando así esas oficinas del Ensanche para otros usos del ayuntamiento. Es cierto que las nuevas oficinas resultaron ser mejores instalaciones, si obviamos que prácticamente parecen un búnker: unas oficinas donde la mayoría de la gente no ve la luz del sol, en un entorno postindustrial entre zonas de obras, zonas desmanteladas y zonas renovadas pero que no pierden la tendencia a inundarse. Son aspectos de difícil solución, por eso confiamos en que la nueva sede esté disponible cuanto antes, y que sea un cambio a mejor. Mientras tanto, proponemos las siguientes mejoras.
 
-Creemos que es importante que el centro reconozca el esfuerzo y el talento y proporcione las condiciones adecuadas y medios necesarios para desarrollarlo de una forma eficaz. Este bloque se centra en mejoras referentes a las condiciones en las que los trabajadores de Vicomtech realizan su labor.
+## 2.1. Movilidad
 
-### 1. Valoración del tiempo de trabajo: Viajes y Dietas
+La ubicación de las instalaciones en la isla de Zorrozaurre no es idónea. Por eso, la movilidad a nuestra propia oficina es una preocupación de primer orden. Aprovechando la buena relación de Vicomtech con el Ayuntamiento de Bilbao (no todas las oficinas que se abren en la capital disponen de la presencia del alcalde en su inauguración, como fue nuestro caso…), creemos que Vicomtech debería presionar al ayuntamiento para que mejore las opciones de transporte en la zona. 
 
-Consideramos que el compromiso de la plantilla cuando viaja debe ser reconocido y compensado adecuadamente.
+Actualmente, hay una única línea de Bilbobus (A4) que conecta la isla con Deusto, que tenía sentido cuando la única conexión era el puente Frank Gehry. Sin embargo, la isla dispone desde hace tiempo con el puente de San Ignacio; y, de hecho, los autobuses de refuerzo de esta línea en hora punta, vuelven al inicio de la ruta cruzando este puente, dejando clara su utilidad. Una línea circular que conectara los barrios de San Ignacio, Sarriko/Ibarrekolanda, Deusto y Zorrozaurre ampliaría la oferta de opciones desde las que llegar a la isla, con transbordos con otras líneas de Bilbobus y Bizkaibus, así como con las paradas de metro.
 
-**Política de Viajes y Gestión del Tiempo:** Proponemos regular el tiempo invertido en desplazamientos fuera del horario laboral para que sea compensado justamente, respetando el tiempo de descanso. Para eso realizaremos un análisis de cómo tratan este apartado otros centros de nuestro entorno, analizaremos el modelo actual y propondremos cambios y mejoras para el personal de Vicomtech que se ve afectado por los viajes de trabajo.
+Por otra parte, sigue sin entenderse cómo en la plaza que da acceso a nuestra oficina, Mondragon Unibertsitatea (MU) y DigiPen se previera adecuadamente el uso de la bicicleta colocando un aparcabicicletas, pero no una nueva estación de Bilbaobizi. La demanda de este servicio, además, es evidente, ya que el mayor uso de la otra estación que hay en la isla, aún estando relativamente alejada, proviene de los trabajadores de Vicomtech y los alumnos de MU y DigiPen.
 
-**Actualización de Dietas:** Tras 7 años sin cambios, planteamos una revisión de los importes para ajustarlos a la realidad de los precios de mercado actuales, asegurando que cubran dignamente los costes de alojamiento y manutención.
+Creemos que Vicomtech debería de presionar con estas propuestas, y abogaremos por ello.
 
-### 2. Uso de Portátiles o sobremesas a disposición de los trabajadores
+## 2.2. Desplazamientos
 
-Actualmente, los perfiles no senior (<G2) no disponen de portátiles personales corporativos, lo que implica la dependencia de los disponibles en salas de reuniones y portátiles de departamento, que en algunos casos han mostrado no ser suficientes. Adicionalmente, existen ciertos perfiles de profesionales que se tienen que desplazar a cliente semanalmente y esto a veces implica la compra de un equipo aparte, con el presupuesto del proyecto. Creemos que sería más eficiente dejar libertad para usar portátiles como estación de trabajo para estos casos, además para los casos comentados supondría una reducción de costes (un equipo en lugar de dos) y de horas de trabajo invertidas en preparar portátiles para reuniones externas.
+A pesar de que Vicomtech Bilbao es una realidad consolidada y en expansión, resulta alarmante que nuestra sede ni siquiera aparezca mencionada en gran parte del **reglamento interno** del centro. Esta invisibilidad administrativa no es solo un olvido formal; tiene consecuencias directas y negativas en la gestión de nuestros viajes y traslados diarios. Actualmente, los desplazamientos entre sedes o hacia puntos de transporte (como aeropuertos o estaciones) se encuentran en un "limbo" procedimental que genera arbitrariedad y desprotección. Para corregirlo, nos comprometemos a negociar un **procedimiento oficial de desplazamientos** que aborde:
 
-### 3. Bienestar laboral y prevención de burnout
+* **Protocolo Inter-sedes (Bilbao-Miramon-Eskuzaitzeta):** Establecer reglas claras y transparentes para los viajes entre oficinas, garantizando que todo el tiempo de trayecto sea computado como jornada efectiva de trabajo y que los medios de transporte facilitados por el centro cumplan con estándares de seguridad y eficiencia para toda la plantilla.  
+* **Realidad de los traslados al Aeropuerto:** El reglamento actual ignora la realidad geográfica de quienes formamos la sede de Bilbao. **Bizkaia no es solo Bilbao capital**. Muchas personas de la plantilla residimos en diversos municipios de la provincia (como Getxo, Berango, Barakaldo…) y el sistema actual de traslados al aeropuerto no contempla este punto de partida real.  
+* **Precios reales:** Actualizar los importes de las dietas y kilometraje a la realidad actual del mercado, evitando que viajar por trabajo suponga un coste personal para la plantilla. 
 
-Cuidar el bienestar emocional de la plantilla es un factor indispensable para prevenir la saturación mental o burnout dentro del entorno de trabajo, sobre todo en situaciones con picos de trabajo prolongados, interrupciones constantes y falta de espacios de recuperación.
+Nuestra meta es clara: **Vicomtech Bilbao debe existir en los papeles para que nuestros derechos existan en la práctica.** Trabajaremos para actualizar toda la normativa interna, asegurando que cada profesional de Bizkaia sea tratado con la misma equidad y respeto a su realidad territorial que el resto de sus compañeros y compañeras.
 
-**Espacios adecuados para concentración y recuperación:** Asegurar que existan zonas de trabajo silenciosas, con estímulos reducidos y sin interrupciones, donde cualquier trabajador pueda ir a concentrarse o recargar energía en momentos de burnout.
+## 2.3. Traslado a la futura sede de Punta Norte
 
-**Revisión periódica de carga:** Establecer junto con DARes y responsables revisiones sencillas de carga de trabajo y capacidad en los diferentes equipos y proyectos para detectar picos y desequilibrios a tiempo.
+Los cambios de sede no son algo nuevo en Vicomtech, tanto en general, como en la sede de Bilbao. Como se ha comentado anteriormente, las personas más veteranas del lugar recordarán la mudanza del Ensanche a Zorrozaurre, que si bien el traslado en sí se realizó debidamente, fue precipitado, ya que algunas intervenciones todavía estaban por terminar las primeras semanas (pintura, polvo…).
 
-**Implementación y seguimiento del Protocolo de Riesgos Psicosociales:** Para este tipo de casuísticas la ley establece un Protocolo de Riesgos Psicosociales, colaboraremos en la redacción del mismo poniendo el foco en la prevención y detección de este tipo de riesgos y velando después por su cumplimiento efectivo.
+Una vez más, se ha visto recientemente con el traslado a MUBIL de la necesidad de planificar y consensuar previamente el traslado a unas nuevas instalaciones. Nuestra intención es que la plantilla esté informada plenamente del desarrollo de las nuevas oficinas, desde la primera piedra hasta la última mesa colocada. Además, queremos que estén a gusto de los trabajadores, porque son ellos quienes van a usarlas. Evitaremos que el traslado se produzca antes de que las condiciones sean óptimas.
 
----
+## 2.4. Delegación de Sistemas/Mantenimiento
 
-## Bloque 4: Flexibilidad y Conciliación
+Tener una incidencia en la oficina de Bilbao que deba ser resuelta por alguien del departamento de Sistemas o Mantenimiento puede resultar en una odisea para el trabajador afectado, ya que no hay nadie perteneciente a esos departamentos en nuestra plantilla.  En muchos casos acabamos dependiendo de idazkaritza, y en otros nos vemos sometidos a esperas más o menos largas hasta que se puede enviar a alguien desde Donosti. Muchas veces, dependiendo de la urgencia o gravedad del asunto, acaba repercutiendo en la productividad.
 
-### Hacia un entorno de trabajo que respete la vida personal
+El argumento para no designar personal de Sistemas en Zorrozaurre suele ser que la carga de trabajo derivada de incidencias en esta oficina no da para rellenar una jornada laboral. Sin embargo, nos parece una respuesta poco realista, ya que hay muchas tareas que se realizan en Sistemas que no requieren de presencia física, y que se pueden resolver en remoto. Por tanto, una persona de Sistemas en Bilbao podría dedicarse a las tareas *in situ* cuando fuera necesario, y dedicar el resto de tiempo a tareas en remoto, que pudieran derivar tanto de equipos de Donostia como de Bilbao. Así, se podría tener a personal en régimen fijo (no estudiantes) permanente al que poder acudir cuando hay necesidades de índole presencial.
 
-Para que Vicomtech siga siendo un centro de referencia, debemos ofrecer un entorno capaz de atraer y fidelizar a los mejores profesionales. La flexibilidad no es solo un derecho, es una ventaja competitiva que mejora el bienestar y la productividad.
 
-### 1. El Teletrabajo como motor de bienestar y competitividad
+------------
 
-El objetivo es avanzar hacia un modelo con mayor presencia del trabajo en remoto para mejorar la conciliación y facilitar la captación de talento, especialmente en un sector tan dinámico como el nuestro.
-
-**Ampliación a 6 días sin coste para el centro:** Proponemos ampliar de 4 a 6 los días de teletrabajo mensuales. Es una medida de fácil implementación y coste cero para Vicomtech, ya que se mantiene dentro del margen legal del 30% (Ley 10/2021), evitando cargas adicionales mientras se mejora sustancialmente la calidad de vida de la plantilla. Nos alinearía con las prácticas de otros centros de nuestro entorno que ya aplican con éxito esta flexibilidad.
-
-**Evaluación del Teletrabajo para personal de staff:** Solicitamos un análisis técnico de las tareas de Staff para identificar qué funciones pueden realizarse de forma remota. El objetivo es valorar un modelo de teletrabajo que mejore la calidad de vida de estos profesionales sin comprometer el servicio a los departamentos de investigación, en función del departamento y las funciones podría establecerse un sistema de turnos para garantizar que para ciertas funciones hubiera siempre alguna persona disponible en el centro.
-
-### 2. Flexibilidad Vacacional y Días Libres
-
-Valoramos positivamente la adopción del tercer day off este año, lo cual ha supuesto una mejora real en nuestro descanso. Consideramos que es el camino correcto y proponemos seguir profundizando en esta línea de autonomía:
-
-**"Liberar" el Martes de Pascua:** Este festivo es tradicional en Vicomtech debido al Artículo 35 del Convenio colectivo que establece que hay seis días de descanso en Semana Santa. Sin embargo, ese mismo artículo contempla la posibilidad de modificación de estas condiciones mediante el acuerdo con los representantes legales de los trabajadores. Planteamos sustituir este festivo fijo por un día de vacaciones adicional de libre elección. Creemos que es un excelente ejemplo de cómo dotar a los profesionales de mayor flexibilidad para organizar su tiempo personal según sus necesidades, sin que ello afecte a la jornada anual pactada.
-
-**Periodos de Descanso equiparables a las vacaciones para estudiantes multianuales:** Una de las figuras que existe en Vicomtech es la del estudiante convenido con EAFIT u otras universidades que nos acompaña durante su proceso doctoral durante varios años. Estos estudiantes tienen una situación complicada, ya que perciben una beca que apenas cubren los gastos de manutención y vivienda en Donostia. Adicionalmente, no tienen derecho a vacaciones, al no disponer de contrato laboral y cuando reclaman un periodo de descanso se les sugiere que se tomen un "permiso no retribuido". Creemos que deberían tener derecho a periodos de descanso equiparables a la vacaciones laborales, ya que objetivamente tienen unas condiciones difíciles, a miles de kilómetros de sus casas y empujarles a "suspender" su retribución para obtener este periodo de descanso no creemos que sea adecuado.
-
-### 3. Equidad en la Maternidad y Paternidad
-
-Apostamos por que el ejercicio de los derechos de cuidados sea un proceso natural y transparente, sin que impacte en la trayectoria profesional.
-
-**Criterios de Evaluación Homogéneos:** Proponemos que los permisos retribuidos se traten con los mismos criterios que las bajas en la evaluación 360, garantizando una ponderación justa. Asimismo, vemos necesario establecer pautas claras de flexibilidad horaria para la reincorporación, facilitando una transición equilibrada para todas las partes.
-
-### 4. Derecho a la Desconexión Digital Real
-
-Es fundamental que la línea entre vida laboral y personal no se desdibuje.
-
-**Protocolo de Desconexión:** Apostamos por un acuerdo que garantice el derecho a no responder comunicaciones (emails, Teams) fuera del horario laboral, fines de semana o vacaciones.
-
-**Cultura de Reuniones Eficientes:** Establecer franjas horarias "libres de reuniones" para fomentar el trabajo de concentración y reducir la fatiga digital.
-
----
 
 ¿Tienes dudas o sugerencias? Escríbenos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o búscanos en los descansos, sabes dónde encontrarnos.  
