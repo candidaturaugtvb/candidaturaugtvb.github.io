@@ -2,7 +2,13 @@
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
   <ul>
     {% for item in mainmenu %}
-    <li class="{% if item.url == page.url or page.url contains item.url and item.url != '/' %}active{% endif %}">
+    {% assign is_active = false %}
+    {% if item.url == page.url %}
+      {% assign is_active = true %}
+    {% elsif item.url == '/programa/' and page.url == '/programa-eu/' %}
+      {% assign is_active = true %}
+    {% endif %}
+    <li class="{% if is_active %}active{% endif %}">
       <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
     </li>
     {% endfor %}
