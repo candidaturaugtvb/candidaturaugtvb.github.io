@@ -5,7 +5,7 @@
     {% assign is_active = false %}
     {% if item.url == page.url %}
       {% assign is_active = true %}
-    {% elsif item.url == '/programa/' and page.url == '/programa-eu/' %}
+    {% elsif item.url == '/programa/' and page.url contains '/programa-eu' %}
       {% assign is_active = true %}
     {% endif %}
     <li class="{% if is_active %}active{% endif %}">
