@@ -2,7 +2,7 @@
 title: Gera gaitezkeen
 layout: page
 pdf-file: "/documents/programa-eu.pdf"
-lang: eus
+lang: "eus"
 description: Vicomtech baten alde.
 ---
 

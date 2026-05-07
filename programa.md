@@ -3,7 +3,7 @@ title: Programa Electoral
 layout: page
 pdf-file: "/documents/programa.pdf"
 description: Por un Vicomtech en el que quedarnos.
-lang: esp
+lang: "esp"
 ---
 
 # Por un Vicomtech en el que quedarnos
