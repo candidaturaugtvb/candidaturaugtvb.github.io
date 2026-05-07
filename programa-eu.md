@@ -169,4 +169,4 @@ Zorrotzaurreko Sistemako langilerik ez izendatzeko argudioa izan ohi da bulego h
 
 ------------
 
-Zalantzak edo iradokizunak dituzu? Idatzi [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) helbidera edo bilatu atsedenaldietan, badakizu non aurkitu.
+Zalantzak edo iradokizunak dituzu? Idatzi [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) helbidera edo atsedenaldietan bila gaitzakezu.
