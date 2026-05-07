@@ -3,6 +3,7 @@ layout: default
 bodyClass: "page-basic"
 ---
 
+<align right> {% if page.lang == esp %} <b>ES</b> | <a href="{{ programa-eu | relative_url}}">EU</a> {% else %} <a href="{{ programa | relative_url}}">ES</a> | <b>EU</b> {% endif %}
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
     <div class="row justify-content-start">
         <div class="col-12 col-md-8">
@@ -17,7 +18,7 @@ bodyClass: "page-basic"
                     {% if page.pdf-file %}
                     <div class="row justify-content-center">
                         <div class="col-auto">
-                            <a class="button button-primary" href="{{ page.pdf-file | relative_url}}" target="_blank">Ver Programa en PDF</a>
+                            <a class="button button-primary" href="{{ page.pdf-file | relative_url}}" target="_blank">{% if page.lang == esp %}Ver Programa en PDF {% else %} Ikusi programa PDF formatuan {% endif %}</a>
                         </div>
                     </div>
                     {% endif %}
