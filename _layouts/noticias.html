@@ -17,10 +17,15 @@ bodyClass: "page-noticias"
     </div>
   </div>
 </div>
-
+{% comment %}
+If one wanted to pin, sort by weight and use that to highlight it. We could also include a pin icon to the ones with e.g. weight==20
+Here the idea is they keep relative order in date when sorting by weight.
+{% assign sorted_news = site.news | sort: 'date' | reverse | sort: 'weight' %}
+{% endcomment %}
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for news_item in site.news %}
+    {% assign sorted_news = site.news | sort: 'date' | reverse %}
+    {% for news_item in sorted_news %}
     <div class="col-12 col-md-6 mb-3">
       <div class="news news-summary">
         <div class="news-content">
