@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Zorrotzaurrerako mugikortasuna",
+    "description": "Udalari presioa egitea garraio-linea eta Bilbaobizi geltoki hobeak lortzeko.",
+    "image": {
+      "url": "images/features/transporte.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Bidezko joan-etorriak",
+    "description": "Lekualdatzeak barne-araudian aitortzea eta Bizkaia osoan bizi direnentzako benetako estaldura bermatzea.",
+    "image": {
+      "url": "images/features/desplazamientos.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Sistemak eta mantentze-lanak in-situ",
+    "description": "Bilbon euskarri iraunkorra nahi dugu itxaronaldiekin amaitzeko.",
+    "image": {
+      "url": "images/features/sistemas.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Ipar Puntako etorkizuneko egoitzara lekualdatzea",
+    "description": "Ziurtatzea iraganeko akatsak ez direla errepikatuko egoitza berrietarako lekualdatzeetan (Zorrotzaurre, MUBIL...).",
+    "image": {
+      "url": "images/features/nueva-sede.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Ibilbide profesionala",
+    "description": "Gardentasuna eta justizia ebaluazioetan.",
+    "image": {
+      "url": "images/features/carrera.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Telelan gehiago",
+    "description": "Donostiako proposamena babestea: Hilean 6 egunera zabaltzea, zentroarentzat kostu gehigarririk gabe.",
+    "image": {
+      "url": "images/features/telelana.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Soldatak",
+    "description": "Gardentasuna, taula argiak eta lehiakorrak sektorearekiko.",
+    "image": {
+      "url": "images/features/salarios.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Lan-kontziliazioa",
+    "description": "Ordutegi-malgutasuna bizitza pertsonala eta profesionala orekatzeko.",
+    "image": {
+      "url": "images/features/conciliacion.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Aparteko orduak",
+    "description": "Kudeaketa bidezkoa eta lan-kargaren konpentsazio ofiziala.",
+    "image": {
+      "url": "images/features/horas-extra.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Oporretako malgutasuna",
+    "description": "Oporretako benetako malgutasuna.",
+    "image": {
+      "url": "images/features/vacaciones.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

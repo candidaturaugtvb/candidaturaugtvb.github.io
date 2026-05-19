@@ -1,7 +1,7 @@
 ---
 title: Candidatura UGT Vicom Bilbao
 layout: home
-description: Candidatura para comité de empresa respaldada por UGT - Menos quejas en el café y más soluciones en la mesa
+description: Candidatura para comité de empresa respaldada por UGT
 intro_image: "images/vicom-fotos/entrada.jpeg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false

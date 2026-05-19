@@ -1,0 +1,21 @@
+---
+title: "¿Qué ha pasado con la convocatoria de elecciones para formar un comité?"
+date: 2026-05-04
+weight: 3
+---
+
+Como ya sabréis, estamos en pleno proceso electoral. Aunque la mesa ya haya proporcionado la información esencial, como fechas o ubicación del censo, la intención de nuestra candidatura conjunta es que todo el proceso sea completamente transparente. Por ello, lanzamos este comunicado con fines puramente informativos.
+
+Hasta el 12 de marzo, estuvo abierta una consulta informal a todo aquel interesado para que expresara qué opción de Representación Legal de Trabajadores y Trabajadoras (RLT) le parecía mejor para la sede de Bilbao. La mayoría de las respuestas prefería una representación con sindicato, así que nos pusimos manos a la obra. 
+
+Nuestra intención era juntar mínimo las 5 personas necesarias para un comité de empresa en una **plantilla de 50 a 100 personas trabajadoras**, que creemos es nuestro caso. A partir de ahí se formó una lista de 8 personas interesadas en formar una candidatura, y se contactó con el sindicato UGT para respaldarla. UGT, con la información que le puede proporcionar la Seguridad Social (SS), nos confirmó que **la cantidad de personal afiliado a la misma es 53** (número que se mantiene actualmente). Por tanto, el 30 de marzo UGT registró en el Gobierno Vasco (GV) unas elecciones a comité de empresa para Vicomtech Bilbao, dando preaviso a las partes interesadas.
+
+Cabe destacar que este recuento **incluye a los estudiantes en prácticas**. Aunque su estatus sea algo especial, tienen una relación laboral con Vicomtech, y así lo refleja su afiliación a la Seguridad Social. En cambio, el departamento de Personas (RRHH) de Vicomtech comunicó a nuestro enlace de UGT en un cruce de correos que, a su parecer, había menos de 50 personas en plantilla.
+
+Con estos hechos como contexto, queremos aportar más información sobre por qué **las elecciones** del próximo viernes **serán para elegir, como máximo, 3 delegados y delegadas de personal**.
+
+El órgano que rige cualquier proceso electoral es la Mesa electoral, en este caso compuesta por los miembros de mayor antigüedad, de menor edad y de mayor edad. Son responsables, en primera instancia, de comprobar el censo proporcionado por el centro de trabajo, y determinar según éste el número de representantes. El pasado jueves 30 de abril, día de la formación de la Mesa, **RRHH proporciona un censo** (que podéis consultar en el tablón del office) **con 45 trabajadores y trabajadoras**, obviando al personal en régimen de prácticas. Acto seguido, UGT reclama que ese censo está incompleto, según el número que le ha proporcionado la SS. Además, pide a RRHH que le entregue información sobre el número de horas trabajadas por personas empleadas en el año anterior desde el preaviso, que llegado el caso también pueden aportar al cómputo del censo; a lo que RRHH se niega. Después de deliberar, **la Mesa da por válido el censo proporcionado por RRHH**, y determina que las elecciones deben ser para elegir, como máximo, 3 delegados y delegadas de personal, que es lo que corresponde a un centro de 31 a 49 personas empleadas.
+
+Así las cosas, **UGT impugna esta decisión a la Mesa, que acto seguido la Mesa desestima**. El proceso sigue su curso, por lo que esta semana tendremos elecciones para elegir 3 representantes, y las personas que íbamos en las tres primeras posiciones de la lista original nos presentaremos con el respaldo de UGT. Sin embargo, hoy mismo se ha registrado en la Delegación Territorial de Trabajo y Seguridad Social del GV la promoción de un procedimiento arbitral para impugnar la decisión de la Mesa electoral. Si el arbitraje aceptara la impugnación, se repetiría el proceso electoral, esta vez para un comité de 5 personas.
+
+Mientras tanto, os animamos a participar en las elecciones de este viernes 8 de mayo, de 10:00 a 11:00, para que, sea como fuere, contéis con una RLT digna de vosotros. Estad atentos al [canal de Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) y al [grupo de Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t) porque iremos publicando novedades. ¡Nos vemos en la urna!

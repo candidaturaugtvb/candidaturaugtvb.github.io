@@ -1,7 +1,9 @@
 baseurl: '/'
 permalink: pretty
 title: 'Candidatura UGT Vicom Bilbao'
-
+languages: ["es", "eu"]
+exclude_from_localizations: ["images", "css", "_sass"]
+default_locale_in_subfolder: true
 
 logo:
   mobile: "images/logo/logo.png"
@@ -38,7 +40,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
-
+  - jekyll-multiple-languages-plugin
 exclude:
   - Gemfile
   - Gemfile.lock

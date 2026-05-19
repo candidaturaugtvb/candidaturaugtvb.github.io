@@ -1,0 +1,27 @@
+main:
+  - name: "Hasiera"
+    url: "/"
+    weight: 1
+  - name: "Albisteak"
+    url: "/noticias/"
+    weight: 2
+  - name: "Programa"
+    url: "/programa/"
+    weight: 3
+  - name: "Ohiko Galderak"
+    url: "/faq/"
+    weight: 4
+  - name: "Nor Garen"
+    url: "/team/"
+    weight: 5
+  - name: "Kontaktua"
+    url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Hasiera"
+    url: "/"
+    weight: 1
+  - name: "Kontaktua"
+    url: "/contact/"
+    weight: 2
