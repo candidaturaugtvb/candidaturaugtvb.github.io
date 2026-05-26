@@ -17,7 +17,7 @@ bodyClass: "page-basic"
                     {% if page.pdf-file %}
                     <div class="row justify-content-center">
                         <div class="col-auto">
-                            <a class="button button-primary" href="{{ page.pdf-file | relative_url}}" target="_blank">{% if site.lang == "es" %}Ver Programa en PDF {% else %} Ikusi programa PDF formatuan {% endif %}</a>
+                            <a class="button button-primary" href="{{ page.pdf-file | relative_url}}" target="_blank">{% t buttons.view_pdf %}</a>
                         </div>
                     </div>
                     {% endif %}

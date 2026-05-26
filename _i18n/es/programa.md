@@ -1,11 +1,3 @@
----
-title: Programa Electoral
-layout: page
-pdf-file: "/documents/programa.pdf"
-description: Por un Vicomtech en el que quedarnos.
-lang: "esp"
----
-
 # Por un Vicomtech en el que quedarnos
 
 ## <span style="color:#a01b16">PROGRAMA CONJUNTO DE LA CANDIDATURA DE UGT</span>

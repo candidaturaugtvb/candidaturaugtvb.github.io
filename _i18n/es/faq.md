@@ -1,9 +1,3 @@
----
-title: Preguntas Frecuentes
-layout: page
-description: Preguntas frecuentes sobre la candidatura
----
-
 ## ¿Cuándo son las elecciones?
 
 Las elecciones son el viernes 8 de Mayo, a entre las 10h y las 11h.

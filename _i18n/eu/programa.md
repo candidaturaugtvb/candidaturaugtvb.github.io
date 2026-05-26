@@ -1,11 +1,3 @@
----
-title: Gera gaitezkeen
-layout: page
-pdf-file: "/documents/programa.pdf"
-lang: "eus"
-description: Vicomtech baten alde.
----
-
 # Vicomtech baten alde
 
 ## <span style="color:#a01b16">UGT HAUTAGAITZAREN PROGRAMA BATERATUA</span>

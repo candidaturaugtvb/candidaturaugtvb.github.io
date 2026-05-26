@@ -1,13 +1,3 @@
----
-title: Candidatura UGT Vicom Bilbao
-layout: home
-description: Candidatura para comité de empresa respaldada por UGT
-intro_image: "images/vicom-fotos/entrada.jpeg"
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
-show_call_box: true
----
-
 # Por un Vicomtech en el que quedarnos
 
 Somos trabajadores y trabajadoras de Vicomtech, igual que tú. Somos la gente que te encuentras cada día en la oficina, en el office y en el bus. Nosotras también nos hemos quejado de esto y de aquello, y hemos escuchado todas vuestras quejas. Desde toda la diversidad que hemos sido capaces de reunir, formamos una representación diversa de la organización. Conocemos tu día a día y compartimos tus preocupaciones e inquietudes.

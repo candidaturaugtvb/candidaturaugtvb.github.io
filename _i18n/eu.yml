@@ -1,0 +1,50 @@
+# Basque (Euskara) translations
+# Euskarazko itzulpenak
+
+global:
+  site_title: "UGT Vicom Bilbao hautagaitza"
+  tagline: "Vicomtech baten alde, bertan geratzeko"
+  contact: "Kontaktua"
+
+langs:
+  es: "Español"
+  eu: "Euskara"
+
+# Page titles and descriptions
+home:
+  title: "UGT Vicom Bilbao hautagaitza"
+  description: "UGTk babestutako enpresa-batzorderako hautagaitza"
+
+contact:
+  title: "Kontaktua"
+  description: "Kontaktua"
+
+faq:
+  title: "Ohiko Galderak"
+  description: "Hautagaitzari buruzko ohiko galderak"
+
+programa:
+  title: "Hauteskunde Programa"
+  description: "Vicomtech baten alde, bertan geratzeko"
+
+team:
+  title: "Nor gara?"
+  description: "Nor gara?"
+
+noticias:
+  title: "Albisteak"
+  description: "Albisteak"
+
+# Button labels
+buttons:
+  contact: "Kontaktua"
+  view_all_news: "Albiste guztiak ikusi"
+  view_program: "Programa osoa ikusi"
+  view_pdf: "Ikusi programa PDF formatuan"
+
+# Section headers
+sections:
+  main_points: "Gure programaren puntu nagusiak"
+  joint_force: "Indar bateratua: Donostiako batzordearekin koordinazioa"
+  bilbao_section: "Bilbao: gure egoitza, gure eskubideak"
+  latest_news: "Azken albisteak"

@@ -40,7 +40,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "noticias" | relative_url }}">{% if site.lang == "es" %}Ver Todas las Noticias{% else %}Albiste guztiak ikusi{% endif %}</a>
+        <a class="button button-primary" href="{{ "noticias" | relative_url }}">{% t buttons.view_all_news %}</a>
       </div>
     </div>
   </div>
@@ -50,13 +50,8 @@ bodyClass: "page-home"
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-      {% if site.lang == "es" %}
-      <h1>Puntos principales de nuestro programa</h1>
-      <h2>Fuerza común: coordinación con el comité de Donosti</h2>
-      {% else %}
-      <h1>Gure programaren puntu nagusiak</h1>
-      <h2>Indar bateratua: Donostiako batzordearekin koordinazioa</h2>
-      {% endif %}
+      <h1>{% t sections.main_points %}</h1>
+      <h2>{% t sections.joint_force %}</h2>
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
@@ -69,11 +64,7 @@ bodyClass: "page-home"
       </div>
       {% endfor %}
 
-      {% if site.lang == "es" %}
-      <h2>Bilbao: nuestra sede, nuestros derechos</h2>
-      {% else %}
-      <h2>Bilbao: gure egoitza, gure eskubideak</h2>
-      {% endif %}
+      <h2>{% t sections.bilbao_section %}</h2>
       {% for feature in site.data.features-bilbo %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
@@ -87,7 +78,7 @@ bodyClass: "page-home"
       {% endfor %}
       <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "programa" | relative_url }}">{% if site.lang == "es" %}Ver Programa Completo{% else %}Programa osoa ikusi{% endif %}</a>
+        <a class="button button-primary" href="{{ "programa" | relative_url }}">{% t buttons.view_program %}</a>
       </div>
     </div>
     </div>

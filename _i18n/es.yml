@@ -1,0 +1,50 @@
+# Spanish (Español) translations
+# Traducciones al español
+
+global:
+  site_title: "Candidatura UGT Vicom Bilbao"
+  tagline: "Por un Vicomtech en el que quedarnos"
+  contact: "Contacto"
+
+langs:
+  es: "Español"
+  eu: "Euskara"
+
+# Page titles and descriptions
+home:
+  title: "Candidatura UGT Vicom Bilbao"
+  description: "Candidatura para comité de empresa respaldada por UGT"
+
+contact:
+  title: "Contacto"
+  description: "Contacto"
+
+faq:
+  title: "Preguntas Frecuentes"
+  description: "Preguntas frecuentes sobre la candidatura"
+
+programa:
+  title: "Programa Electoral"
+  description: "Por un Vicomtech en el que quedarnos"
+
+team:
+  title: "¿Quiénes somos?"
+  description: "¿Quiénes somos?"
+
+noticias:
+  title: "Noticias"
+  description: "Noticias"
+
+# Button labels
+buttons:
+  contact: "Contacto"
+  view_all_news: "Ver Todas las Noticias"
+  view_program: "Ver Programa Completo"
+  view_pdf: "Ver Programa en PDF"
+
+# Section headers
+sections:
+  main_points: "Puntos principales de nuestro programa"
+  joint_force: "Fuerza común: coordinación con el comité de Donosti"
+  bilbao_section: "Bilbao: nuestra sede, nuestros derechos"
+  latest_news: "Últimas Noticias"
