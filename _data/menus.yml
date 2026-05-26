@@ -1,0 +1,27 @@
+main:
+  - name: "Inicio"
+    url: "/"
+    weight: 1
+  - name: "Noticias"
+    url: "/noticias/"
+    weight: 2
+  - name: "Programa"
+    url: "/programa/"
+    weight: 3
+  - name: "FAQ"
+    url: "/faq/"
+    weight: 4
+  - name: "Quiénes Somos"
+    url: "/team/"
+    weight: 5
+  - name: "Contacto"
+    url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Inicio"
+    url: "/"
+    weight: 1
+  - name: "Contacto"
+    url: "/contact/"
+    weight: 2
