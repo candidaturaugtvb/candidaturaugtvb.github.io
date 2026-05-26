@@ -1,0 +1,21 @@
+[
+  {
+    "name": "WhatsApp",
+    "link": "https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t",
+    "image": "images/social/whatsapp.png",
+    "image2": "images/social/whatsapp-red.png"
+  },
+  {
+      "name": "Telegram",
+      "link": "https://t.me/+Cu9s5bnu3MYyNzM0",
+      "image": "images/social/telegram.png",
+      "image2": "images/social/telegram-red.png"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:vicomugtbilbao@gmail.com",
+      "image": "images/social/email.svg",
+      "image2": "images/social/email-red.png"
+  }
+
+]

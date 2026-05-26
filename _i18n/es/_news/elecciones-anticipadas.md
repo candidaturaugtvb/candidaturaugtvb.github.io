@@ -1,9 +1,3 @@
----
-title: "¿Qué ha pasado con la convocatoria de elecciones para formar un comité?"
-date: 2026-05-04
-weight: 3
----
-
 Como ya sabréis, estamos en pleno proceso electoral. Aunque la mesa ya haya proporcionado la información esencial, como fechas o ubicación del censo, la intención de nuestra candidatura conjunta es que todo el proceso sea completamente transparente. Por ello, lanzamos este comunicado con fines puramente informativos.
 
 Hasta el 12 de marzo, estuvo abierta una consulta informal a todo aquel interesado para que expresara qué opción de Representación Legal de Trabajadores y Trabajadoras (RLT) le parecía mejor para la sede de Bilbao. La mayoría de las respuestas prefería una representación con sindicato, así que nos pusimos manos a la obra. 

@@ -48,3 +48,12 @@ sections:
   joint_force: "Indar bateratua: Donostiako batzordearekin koordinazioa"
   bilbao_section: "Bilbao: gure egoitza, gure eskubideak"
   latest_news: "Azken albisteak"
+
+# News titles (TODO: translate to Basque)
+news:
+  elecciones:
+    title: "Hauteskundeak ostiralean, maiatzaren 8an!!"
+  elecciones_anticipadas:
+    title: "Zer gertatu da batzorde bat osatzeko hauteskunde-deialdiarekin?"
+  resultado_delegados:
+    title: "Zorrotzaurreko Langileen Ordezkarietarako Hauteskundeen Emaitzak"

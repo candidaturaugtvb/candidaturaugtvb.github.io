@@ -48,3 +48,12 @@ sections:
   joint_force: "Fuerza común: coordinación con el comité de Donosti"
   bilbao_section: "Bilbao: nuestra sede, nuestros derechos"
   latest_news: "Últimas Noticias"
+
+# News titles
+news:
+  elecciones:
+    title: "¡¡Elecciones el viernes 8 de Mayo!!"
+  elecciones_anticipadas:
+    title: "¿Qué ha pasado con la convocatoria de elecciones para formar un comité?"
+  resultado_delegados:
+    title: "Resultados de las Elecciones a Delegados de Personal en Zorrotzaurre"

@@ -1,9 +1,3 @@
----
-title: "Resultados de las Elecciones a Delegados de Personal en Zorrotzaurre"
-date: 2026-05-08
-weight: 3
----
-
 Una vez finalizada la votación y realizado el pertinente recuento, la Mesa Electoral ha publicado el Acta de Escrutinio oficial en el tablón de anuncios del Office. Queremos anunciar con gran satisfacción que los tres candidatos presentados por UGT hemos resultado elegidos para representar a la plantilla. La jornada electoral ha contado con una excelente movilización, registrando la participación de 29 personas de las 45 llamadas a las urnas, lo que supone el respaldo de prácticamente dos tercios (66%) de la plantilla.
 
 Los resultados concretos de nuestros nuevos delegados han sido los siguientes:

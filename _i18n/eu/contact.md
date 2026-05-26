@@ -1,22 +1,22 @@
-Te animamos a acercarte y compartir cualquier duda o sugerencia: estamos aquí para escucharte y sabes dónde nos sentamos.
+Hurbiltzera eta edozein zalantza edo iradokizun partekatzera animatzen zaitugu: hemen gaude zuri entzuteko eta badakizu non esertzen garen.
 
-También hemos dejado habilitado el [formulario anónimo](https://docs.google.com/forms/d/e/1FAIpQLSchDMTvnPbWFBG2NHiizqqbuknfHvnJRsDU7NWJ7pcvw7Jy1Q/viewform?usp=dialog) para que puedas trasladarnos tus preocupaciones.
+[Postontzi anonimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) bat ere gaitu dugu zure kezken berri eman diezaguzun.
 
-## Canales de Comunicación
+# #Komunikazio Kanalak
 
-### Correo Electrónico
-Escríbenos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com)
+### Posta elektronikoa
+Idatz iezaguzu [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) helbidera.
 
 ### Telegram
-Únete a nuestro canal de Telegram: [Canal de Telegram](https://t.me/+Cu9s5bnu3MYyNzM0)
+Bat egin gure Telegram kanalarekin: [Telegram kanala](https://t.me/+Cu9s5bnu3MYyNzM0)
 
 ### WhatsApp
-Únete a nuestro grupo de WhatsApp: [Canal de WhatsApp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t)
+Egin bat gure WhatsApp taldearekin: [WhatsApp kanala](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t)
 
 ---
 
-## Sobre la Candidatura
+## Hautagaitzari buruz
 
-Somos una candidatura respaldada por UGT, formada por trabajadores y trabajadoras de diversas divisiones de Vicomtech. Contamos con asesoramiento jurídico externo especializado que nos permite actuar con plena independencia.
+UGTk babestutako hautagaitza bat gara, Vicomtech-eko hainbat dibisiotako langileek osatua. Kanpoko aholkularitza juridiko espezializatua dugu, independentzia osoz jarduteko aukera ematen diguna.
 
-Nuestro objetivo es representar los intereses de la plantilla y trabajar por mejores condiciones laborales mediante el diálogo constructivo con la dirección.
+Gure helburua da plantillaren interesak ordezkatzea eta lan baldintza hobeen alde lan egitea, zuzendaritzarekin elkarrizketa eraikitzailea eginez.

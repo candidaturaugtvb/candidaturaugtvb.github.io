@@ -1,28 +1,27 @@
-## ¿Cuándo son las elecciones?
+Noiz dira hauteskundeak?
 
-Las elecciones son el viernes 8 de Mayo, a entre las 10h y las 11h.
+Hauteskundeak maiatzaren 8an izango dira, ostirala, 10:00etatik 11:00etara.
 
-## ¿Por qué se presentan delegados individuales? Pensé que iban a presentarse listas...
+## Zergatik aurkeztu dira ordezkari indibidualak? Zerrendak aurkeztuko zirela uste nuen...
 
-Durante la formación de la mesa, el censo presentado por RRHH mostraba una cantidad de empleados inferior a la que figura en el censo de la Seguridad Social. Con el censo presentado, las elecciones deben realizarse con hasta 3 delegados. Puedes leer más detalles [aquí](/news/elecciones-anticipadas).
+Mahaia osatu bitartean, Giza Baliabideek aurkeztutako erroldak Gizarte Segurantzako erroldan agertzen den langile kopurua baino txikiagoa erakusten zuen. Errolda aurkeztuta, hauteskundeak gehienez 3 ordezkarirekin egin behar dira. Xehetasun gehiago irakurri ditzakezu [hemen] (/news/elecciones-anticipadas).
 
-## ¿Por qué presentarse con UGT?
+## Zergatik aurkeztu UGTrekin?
 
-Nuestra lista cuenta con el respaldo jurídico externo del sindicato UGT, lo que nos permite actuar con plena independencia y disponer de asesoramiento legal especializado. Esto garantiza apoyo y seguridad en todos los procesos.
+Gure zerrendak UGT sindikatuaren kanpoko babes juridikoa du, eta horrek aukera ematen digu independentzia osoz jarduteko eta lege aholkularitza espezializatua izateko. Horrek laguntza eta segurtasuna bermatzen ditu prozesu guztietan.
 
-## ¿Cómo puedo contactar con vosotros?
+Nola jar naiteke zuekin harremanetan?
 
-Puedes escribirnos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o unirte a nuestro [canal de Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) o [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t).
+Helbidera idatz diezagukezu [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) edo gure [Telegram kanala](https://t.me/+Cu9s5bnu3MYyNzM0) edo [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t). [Postontzi anonimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) bat ere badugu gaituta zure iradokizunak entzuteko.
 
-## ¿Qué temas son prioritarios para vuestra candidatura?
-Nuestras prioridades incluyen:
-- Coordinación con el comité de Donosti en la mejora de temas comunes: Carrera profesional, Teletrabajo, Salarios, Conciliación, Horas extra, Flexibilidad vacacional...
-- Movilidad a nuestra oficina de Zorrozaurre.
-- Desplazamientos a otras sedes, intrínsecos a viajes...
-- Traslado a futura sede de Punta Norte.
-- Delegación de Sistemas /Mantenimiento.
+## Zein gai dira lehentasunezkoak zuen hautagaitzarako?
+Gure lehentasunen artean daude:
+- Donostiako batzordearekin koordinatzea gai komunak hobetzeko: karrera profesionala, telelana, soldatak, kontziliazioa, aparteko orduak, oporretako malgutasuna...
+- Mugikortasuna Zorrotzaurreko gure bulegora.
+- Beste egoitza batzuetara joatea, bidaietara joatea...
+- Punta Norteko etorkizuneko egoitzara lekualdatzea.
+- Sistemen/Mantentze lanen Ordezkaritza.
 
+- --
 
----
-
-¿Tienes más preguntas? Escríbenos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com), o acércate a hablar con nosotras en algún descanso.
+Galdera gehiago dituzu? Idatz iezaguzu helbidera [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com), edo hurbil zaitez atsedenaldiren batean gurekin hitz egitera.

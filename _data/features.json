@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Carrera profesional",
+    "description": "Transparencia y justicia en las evaluaciones.",
+    "image": {
+      "url": "images/features/carrera.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Más teletrabajo",
+    "description": "Secundar propuesta de Donosti: Ampliación a 6 días mensuales sin coste adicional para el centro.",
+    "image": {
+      "url": "images/features/telelana.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Salarios",
+    "description": "Transparencia, tablas claras y competitivas frente al sector.",
+    "image": {
+      "url": "images/features/salarios.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Conciliación laboral",
+    "description": "Flexibilidad horaria para equilibrar vida personal y profesional.",
+    "image": {
+      "url": "images/features/conciliacion.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Horas extra",
+    "description": "Gestión justa y compensación oficial de la carga de trabajo.",
+    "image": {
+      "url": "images/features/horas-extra.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Flexibilidad vacacional",
+    "description": "Flexibilidad vacacional real.",
+    "image": {
+      "url": "images/features/vacaciones.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

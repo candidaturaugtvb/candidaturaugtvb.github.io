@@ -12,7 +12,7 @@ Nuestra lista cuenta con el respaldo jurídico externo del sindicato UGT, lo que
 
 ## ¿Cómo puedo contactar con vosotros?
 
-Puedes escribirnos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o unirte a nuestro [canal de Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) o [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t).
+Puedes escribirnos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o unirte a nuestro [canal de Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) o [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t). También tenemos habilitado un [buzón anónimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) para escuchar tus sugerencias.
 
 ## ¿Qué temas son prioritarios para vuestra candidatura?
 Nuestras prioridades incluyen:
