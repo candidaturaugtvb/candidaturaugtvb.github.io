@@ -1,6 +1,6 @@
 Hurbiltzera eta edozein zalantza edo iradokizun partekatzera animatzen zaitugu: hemen gaude zuri entzuteko eta badakizu non esertzen garen.
 
-[Postontzi anonimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) bat ere gaitu dugu zure kezken berri eman diezaguzun.
+<a href=https://forms.gle/dT9Tsrhs4h9vzkRe7 target="_blank">Postontzi anonimo</a> bat ere gaitu dugu zure kezken berri eman diezaguzun.
 
 # #Komunikazio Kanalak
 
