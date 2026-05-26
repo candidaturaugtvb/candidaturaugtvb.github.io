@@ -1,7 +1,7 @@
 <div class="call">
   <div class="call-box-top">
     {% for item in site.data.social %}
-      <a href="{{ item.link }}" target="blank"><img width="32px" src="{{ item.image2 | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="{{ item.link }}" target="blank"><img width="32px" src="{{ site.baseurl_root }}/{{ item.image2 }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     {% endfor %}
 
     <!--

@@ -8,7 +8,7 @@ bodyClass: "page-team"
     <div class="col-12 col-md-8">
       {% if page.image %}
       <div class="team-image">
-          <img width="200" height="200" alt="{{ page.title }}" class="img-fluid mb-2" style="border-radius: 50%;" src="{{ page.image | relative_url }}" />
+          <img width="200" height="200" alt="{{ page.title }}" class="img-fluid mb-2" style="border-radius: 50%;" src="{{ site.baseurl_root }}/{{ page.image }}" />
       </div>
       {% endif %}
       <div class="team team-single">

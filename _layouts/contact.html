@@ -16,7 +16,7 @@ bodyClass: "page-contact"
     </div>
     {% if page.intro_image %}
 <div>
-    <center><img alt={{ page.title }} width=75% src="{{ page.intro_image | relative_url }}" /></center>
+    <center><img alt={{ page.title }} width=75% src="{{ site.baseurl_root }}/{{ page.intro_image }}" /></center>
 </div>
 {% endif %}
 </div>

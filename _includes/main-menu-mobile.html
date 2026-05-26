@@ -7,12 +7,17 @@
     </li>
     {% endfor %}
     <li class="language-switcher">
+      {% assign default_lang = site.languages | first %}
       {% for lang in site.languages %}
         {% if lang == site.lang %}
           <b>{{ lang | upcase }}</b>
         {% else %}
-          {% assign lang_url = page.url | replace: site.lang, lang %}
-          <a href="{{ lang_url | relative_url }}">{{ lang | upcase }}</a>
+          {% if lang == default_lang %}
+            {% capture lang_url %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
+          {% else %}
+            {% capture lang_url %}{{ site.baseurl_root }}/{{ lang }}{{ page.url }}{% endcapture %}
+          {% endif %}
+          <a href="{{ lang_url }}">{{ lang | upcase }}</a>
         {% endif %}
         {% unless forloop.last %} | {% endunless %}
       {% endfor %}
