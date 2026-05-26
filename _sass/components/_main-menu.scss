@@ -30,6 +30,23 @@
           }
         }
       }
+      &.language-switcher {
+        background-color: $white-offset;
+        border-radius: 4px;
+        padding: 5px 10px;
+        margin-left: 10px;
+        a {
+          color: $primary;
+          padding: 2px 5px;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+        b {
+          color: $primary-dark;
+          padding: 2px 5px;
+        }
+      }
     }
   }
 }
