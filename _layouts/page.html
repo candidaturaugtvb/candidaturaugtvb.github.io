@@ -14,26 +14,16 @@ bodyClass: "page-basic"
                     <h1 class="title">{{ page.title }}</h1>
                     {% endif %}
                     {% if page.pdf-file %}
-                    {% if page.pdf-file contains '.' %}
-                    {% assign keys = page.pdf-file | split: '.' %}
-                    {% assign pdf_path = site.translations[site.lang][keys[0]][keys[1]] %}
-                    {% else %}
-                    {% assign pdf_path = page.pdf-file %}
-                    {% endif %}
-                    <align left><a href="{{ site.baseurl_root }}{{ pdf_path }}" target="_blank"><img width="56px" src="{{ site.baseurl_root }}/images/features/Icon_pdf_file.svg"></a></align>
+                    {% capture pdf_path %}{% t programa.pdf_file %}{% endcapture %}
+                    <align left><a href="{{ site.baseurl_root }}{{ pdf_path | strip }}" target="_blank"><img width="56px" src="{{ site.baseurl_root }}/images/features/Icon_pdf_file.svg"></a></align>
                     {% endif %}
                     </div>
                     <div class="content">{{content}}</div>
                     {% if page.pdf-file %}
-                    {% if page.pdf-file contains '.' %}
-                    {% assign keys = page.pdf-file | split: '.' %}
-                    {% assign pdf_path = site.translations[site.lang][keys[0]][keys[1]] %}
-                    {% else %}
-                    {% assign pdf_path = page.pdf-file %}
-                    {% endif %}
+                    {% capture pdf_path %}{% t programa.pdf_file %}{% endcapture %}
                     <div class="row justify-content-center">
                         <div class="col-auto">
-                            <a class="button button-primary" href="{{ site.baseurl_root }}{{ pdf_path }}" target="_blank">{% t buttons.view_pdf %}</a>
+                            <a class="button button-primary" href="{{ site.baseurl_root }}{{ pdf_path | strip }}" target="_blank">{% t buttons.view_pdf %}</a>
                         </div>
                     </div>
                     {% endif %}
