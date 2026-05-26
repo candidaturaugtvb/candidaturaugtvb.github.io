@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang }}">
 
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{% t page.title %}{% else %}{{ site.title | escape }}{% endif %}</title>
+  {% if page.title contains '.' %}
+  <title>{% t page.title %}</title>
+  {% elsif page.title %}
+  <title>{{ page.title }}</title>
+  {% else %}
+  <title>{{ site.title | escape }}</title>
+  {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" type="image/png" href="{{ site.baseurl_root }}/images/favicon.png">
   <!-- Google Fonts CDN -->
