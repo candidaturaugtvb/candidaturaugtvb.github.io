@@ -30,7 +30,7 @@ Here the idea is they keep relative order in date when sorting by weight.
       <div class="news news-summary">
         <div class="news-content">
           <h2 class="news-title">
-            <a href="{{ news_item.url | relative_url }}">{{ news_item.title }}</a>
+            <a href="{{ site.baseurl }}{{ news_item.url }}">{% if news_item.title contains '.' %}{% t news_item.title %}{% else %}{{ news_item.title }}{% endif %}</a>
           </h2>
           <p>{{ news_item.excerpt | markdownify | strip_html | truncate: 100 }}</p>
         </div>
