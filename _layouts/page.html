@@ -14,14 +14,24 @@ bodyClass: "page-basic"
                     <h1 class="title">{{ page.title }}</h1>
                     {% endif %}
                     {% if page.pdf-file %}
-                    <align left><a href="{{ site.baseurl }}{{ page.pdf-file }}" target="_blank"><img width="56px" src="{{ site.baseurl_root }}/images/features/Icon_pdf_file.svg"></a></align>
+                    {% if page.pdf-file contains '.' %}
+                    {% assign pdf_path = page.pdf-file | t %}
+                    {% else %}
+                    {% assign pdf_path = page.pdf-file %}
+                    {% endif %}
+                    <align left><a href="{{ site.baseurl_root }}{{ pdf_path }}" target="_blank"><img width="56px" src="{{ site.baseurl_root }}/images/features/Icon_pdf_file.svg"></a></align>
                     {% endif %}
                     </div>
                     <div class="content">{{content}}</div>
                     {% if page.pdf-file %}
+                    {% if page.pdf-file contains '.' %}
+                    {% assign pdf_path = page.pdf-file | t %}
+                    {% else %}
+                    {% assign pdf_path = page.pdf-file %}
+                    {% endif %}
                     <div class="row justify-content-center">
                         <div class="col-auto">
-                            <a class="button button-primary" href="{{ site.baseurl }}{{ page.pdf-file }}" target="_blank">{% t buttons.view_pdf %}</a>
+                            <a class="button button-primary" href="{{ site.baseurl_root }}{{ pdf_path }}" target="_blank">{% t buttons.view_pdf %}</a>
                         </div>
                     </div>
                     {% endif %}

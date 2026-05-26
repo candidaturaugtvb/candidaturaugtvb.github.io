@@ -26,6 +26,7 @@ faq:
 programa:
   title: "Hauteskunde Programa"
   description: "Vicomtech baten alde, bertan geratzeko"
+  pdf_file: "/assets/documents/programa_eu.pdf"
 
 team:
   title: "Nor gara?"

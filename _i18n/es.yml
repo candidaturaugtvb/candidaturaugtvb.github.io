@@ -26,6 +26,7 @@ faq:
 programa:
   title: "Programa Electoral"
   description: "Por un Vicomtech en el que quedarnos"
+  pdf_file: "/assets/documents/programa_es.pdf"
 
 team:
   title: "¿Quiénes somos?"
