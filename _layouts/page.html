@@ -15,7 +15,8 @@ bodyClass: "page-basic"
                     {% endif %}
                     {% if page.pdf-file %}
                     {% if page.pdf-file contains '.' %}
-                    {% assign pdf_path = page.pdf-file | t %}
+                    {% assign keys = page.pdf-file | split: '.' %}
+                    {% assign pdf_path = site.translations[site.lang][keys[0]][keys[1]] %}
                     {% else %}
                     {% assign pdf_path = page.pdf-file %}
                     {% endif %}
@@ -25,7 +26,8 @@ bodyClass: "page-basic"
                     <div class="content">{{content}}</div>
                     {% if page.pdf-file %}
                     {% if page.pdf-file contains '.' %}
-                    {% assign pdf_path = page.pdf-file | t %}
+                    {% assign keys = page.pdf-file | split: '.' %}
+                    {% assign pdf_path = site.translations[site.lang][keys[0]][keys[1]] %}
                     {% else %}
                     {% assign pdf_path = page.pdf-file %}
                     {% endif %}
