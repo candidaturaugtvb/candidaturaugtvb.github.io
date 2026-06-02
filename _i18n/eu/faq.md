@@ -1,27 +1,27 @@
-Noiz dira hauteskundeak?
+## Noiz dira hauteskundeak?
 
-Hauteskundeak maiatzaren 8an izango dira, ostirala, 10:00etatik 11:00etara.
+Hauteskundeak ekainean errepikatuko dira.
 
-## Zergatik aurkeztu dira ordezkari indibidualak? Zerrendak aurkeztuko zirela uste nuen...
+## Zergatik aurkeztu dira banakako ordezkariak? Zerrendak aurkeztuko zirela uste nuen...
 
-Mahaia osatu bitartean, Giza Baliabideek aurkeztutako erroldak Gizarte Segurantzako erroldan agertzen den langile kopurua baino txikiagoa erakusten zuen. Errolda aurkeztuta, hauteskundeak gehienez 3 ordezkarirekin egin behar dira. Xehetasun gehiago irakurri ditzakezu [hemen] (/news/elecciones-anticipadas).
+Mahaia osatu zenean, Pertsonen departamentua aurkeztutako erroldak Gizarte Segurantzako erroldan agertzen den langile kopurua baino txikiagoa erakusten zuen. Erabaki hauxe impugnatu zen baina, hala ere, arbitrajearen arabera, hauteskundeak gehienez 3 ordezkarientzako egin behar dira. Xehetasun gehiago irakurri ditzakezu [hemen] (/news/elecciones-impugnadas).
 
 ## Zergatik aurkeztu UGTrekin?
 
 Gure zerrendak UGT sindikatuaren kanpoko babes juridikoa du, eta horrek aukera ematen digu independentzia osoz jarduteko eta lege aholkularitza espezializatua izateko. Horrek laguntza eta segurtasuna bermatzen ditu prozesu guztietan.
 
-Nola jar naiteke zuekin harremanetan?
+## Nola jar naiteke zuekin harremanetan?
 
-Helbidera idatz diezagukezu [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) edo gure [Telegram kanala](https://t.me/+Cu9s5bnu3MYyNzM0) edo [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t). [Postontzi anonimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) bat ere badugu gaituta zure iradokizunak entzuteko.
+[vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) helbidera idatz diezagukezu edo gure [Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) eta [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t) kanaletara bateratu. [Postontzi anonimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) bat ere badugu zure iradokizunak entzuteko.
 
 ## Zein gai dira lehentasunezkoak zuen hautagaitzarako?
 Gure lehentasunen artean daude:
 - Donostiako batzordearekin koordinatzea gai komunak hobetzeko: karrera profesionala, telelana, soldatak, kontziliazioa, aparteko orduak, oporretako malgutasuna...
 - Mugikortasuna Zorrotzaurreko gure bulegora.
-- Beste egoitza batzuetara joatea, bidaietara joatea...
-- Punta Norteko etorkizuneko egoitzara lekualdatzea.
-- Sistemen/Mantentze lanen Ordezkaritza.
+- Desplazamenduak beste egoitza batzuetara, bidaietan...
+- Ipar Puntako etorkizuneko egoitzara izango den tokialdaketa.
+- Sistemako eta Mantentzeko ordezkaritza.
 
-- --
 
-Galdera gehiago dituzu? Idatz iezaguzu helbidera [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com), edo hurbil zaitez atsedenaldiren batean gurekin hitz egitera.
+
+Galdera gehiago dituzu? Idatz iezaguzu [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) helbidera, edo hurbil zaitez gugana atsedenaldiren batean hitz egitera.
