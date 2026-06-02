@@ -1,3 +1,3 @@
 # Azken albisteak
 
-Informatu zaitez gure hautagaitzaren berritasunei eta Vicomtech-eko langileentzat garrantzitsuak diren gaiei buruz.
+Informa zaitez gure hautagaitzaren berriei eta Vicomtecheko langileentzat garrantzitsuak diren gaiei buruz.
