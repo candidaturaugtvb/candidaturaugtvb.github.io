@@ -1,5 +1,5 @@
-# Vicomtech baten alde, bertan geratzeko
+# Gera gaitezkeen Vicomtech baten alde
 
-Vicomtech-eko langileak gara, zu bezala. Egunero bulegoan, officean eta busean egoten zaren jendea gara. Gu ere honetaz eta hartaz kexatu gara, eta zuen kexa guztiak entzun ditugu. Biltzeko gai izan garen aniztasun guztitik, erakundearen ordezkaritza anitza osatzen dugu. Zure egunerokoa ezagutzen dugu eta zure kezkak eta kezkak partekatzen ditugu.
+Vicomtecheko langileak gara, zu bezala. Egunero bulegoan, officean eta busean aurkitzen duzun jendea gara. Gu ere honetaz eta hartaz kexatu gara, eta zuen kexa guztiak entzun ditugu. Gai izan garen aniztasun guztitik, erakundearen ordezkaritza anitza osatzen dugu. Zure egunerokoa ezagutzen dugu eta zure kezkak partekatzen ditugu.
 
-Batzordearentzako hauteskunde hauek bultzatzeko ideia Donostiako lankideen ekimenetik sortzen da. Beraiek eman dute lehen pausoa eta orain guri dagokigu borrokarekin bat egitea. Donostiako plantillarekin kezka asko partekatzen ditugu, baina uhartean dugun egoitzako arazo partikularrak ere baditugu. Horregatik sortu zen borroka-mugimendu hau.
+Enpresa-batzordearentzako hauteskunde hauek bultzatzeko ideia Donostiako lankideen ekimenetik sortzen da. Beraiek eman dute lehen pausoa eta orain guri dagokigu borrokarekin bat egitea. Donostiako plantillarekin kezka asko partekatzen ditugu, baina gure egoitzako arazo partikularrak ere baditugu. Horregatik sortu egin da borroka-mugimendu hau.
