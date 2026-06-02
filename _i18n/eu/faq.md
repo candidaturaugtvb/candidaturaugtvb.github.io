@@ -12,7 +12,7 @@ Gure zerrendak UGT sindikatuaren kanpoko babes juridikoa du, eta horrek aukera e
 
 ## Nola jar naiteke zuekin harremanetan?
 
-[vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) helbidera idatz diezagukezu edo gure [Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) eta [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t) kanaletara bateratu. [Postontzi anonimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) bat ere badugu zure iradokizunak entzuteko.
+[vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) helbidera idatz diezagukezu edo gure [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t) kanalera bateratu. [Postontzi anonimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) bat ere badugu zure iradokizunak entzuteko.
 
 ## Zein gai dira lehentasunezkoak zuen hautagaitzarako?
 Gure lehentasunen artean daude:
