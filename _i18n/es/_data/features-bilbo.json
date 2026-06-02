@@ -1,7 +1,7 @@
 [
   {
     "title": "Movilidad a Zorrozaurre",
-    "description": "Presionar al Ayuntamiento para mejores líneas de transporte y estaciones de Bilbaobizi.",
+    "description": "Presionar al Ayuntamiento para mejores líneas de transporte público.",
     "image": {
       "url": "images/features/transporte.png",
       "width": 80,
@@ -28,7 +28,7 @@
   },
   {
     "title": "Traslado a la futura sede de Punta Norte",
-    "description": "Asegurar que no se repitan los errores del pasado en traslados a nuevas sedes (Zorrozaurre, MUBIL...).",
+    "description": "Asegurar que no se repitan los errores del pasado en traslados a nuevas sedes.",
     "image": {
       "url": "images/features/nueva-sede.png",
       "width": 80,
