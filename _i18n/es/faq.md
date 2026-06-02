@@ -1,10 +1,10 @@
 ## ¿Cuándo son las elecciones?
 
-Las elecciones son el viernes 8 de Mayo, a entre las 10h y las 11h.
+Las elecciones se repetirán en Junio.
 
 ## ¿Por qué se presentan delegados individuales? Pensé que iban a presentarse listas...
 
-Durante la formación de la mesa, el censo presentado por RRHH mostraba una cantidad de empleados inferior a la que figura en el censo de la Seguridad Social. Con el censo presentado, las elecciones deben realizarse con hasta 3 delegados. Puedes leer más detalles [aquí](/news/elecciones-anticipadas).
+Durante la formación de la mesa, el censo presentado por RRHH mostraba una cantidad de empleados inferior a la que figura en el censo de la Seguridad Social. Esta decisión se impugnó pero, aun así, según el arbitraje, las elecciones deben realizarse para hasta 3 delegados. Puedes leer más detalles [aquí](/news/elecciones-impugnadas).
 
 ## ¿Por qué presentarse con UGT?
 
@@ -12,7 +12,7 @@ Nuestra lista cuenta con el respaldo jurídico externo del sindicato UGT, lo que
 
 ## ¿Cómo puedo contactar con vosotros?
 
-Puedes escribirnos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o unirte a nuestro [canal de Telegram](https://t.me/+Cu9s5bnu3MYyNzM0) o [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t). También tenemos habilitado un [buzón anónimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) para escuchar tus sugerencias.
+Puedes escribirnos a [vicomugtbilbao@gmail.com](mailto:vicomugtbilbao@gmail.com) o unirte a nuestro canal de [Whatsapp](https://chat.whatsapp.com/HxGiFsEzoFnLMz2dtjCeUF?mode=gi_t). También tenemos habilitado un [buzón anónimo](https://forms.gle/dT9Tsrhs4h9vzkRe7) para escuchar tus sugerencias.
 
 ## ¿Qué temas son prioritarios para vuestra candidatura?
 Nuestras prioridades incluyen:
@@ -20,7 +20,7 @@ Nuestras prioridades incluyen:
 - Movilidad a nuestra oficina de Zorrozaurre.
 - Desplazamientos a otras sedes, intrínsecos a viajes...
 - Traslado a futura sede de Punta Norte.
-- Delegación de Sistemas /Mantenimiento.
+- Delegación de Sistemas/Mantenimiento.
 
 
 ---
