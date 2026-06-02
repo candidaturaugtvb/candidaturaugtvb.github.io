@@ -6,12 +6,6 @@
     "image2": "images/social/whatsapp-red.png"
   },
   {
-      "name": "Telegram",
-      "link": "https://t.me/+Cu9s5bnu3MYyNzM0",
-      "image": "images/social/telegram.png",
-      "image2": "images/social/telegram-red.png"
-  },
-  {
       "name": "Email",
       "link": "mailto:vicomugtbilbao@gmail.com",
       "image": "images/social/email.svg",
