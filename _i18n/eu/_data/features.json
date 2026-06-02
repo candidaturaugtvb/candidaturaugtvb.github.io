@@ -10,7 +10,7 @@
   },
   {
     "title": "Telelan gehiago",
-    "description": "Donostiako proposamena babestea: Hilean 6 egunera zabaltzea, zentroarentzat kostu gehigarririk gabe.",
+    "description": "Donostiako proposamena laguntzea: Hilean 6 egunera zabaltzea, zentroarentzat kostu gehigarririk gabe.",
     "image": {
       "url": "images/features/telelana.png",
       "width": 80,
@@ -37,7 +37,7 @@
   },
   {
     "title": "Aparteko orduak",
-    "description": "Kudeaketa bidezkoa eta lan-kargaren konpentsazio ofiziala.",
+    "description": "Bidezko kudeaketa eta lan-kargaren konpentsazio ofiziala.",
     "image": {
       "url": "images/features/horas-extra.png",
       "width": 80,
