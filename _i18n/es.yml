@@ -52,6 +52,8 @@ sections:
 
 # News titles
 news:
+  arbitraje:
+    title: "¿Qué ha pasado con el arbitraje del GV?"
   elecciones:
     title: "¡¡Elecciones el viernes 8 de Mayo!!"
   elecciones_anticipadas:
