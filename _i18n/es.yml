@@ -52,6 +52,8 @@ sections:
 
 # News titles
 news:
+  demanda_elecciones:
+    title: "¿Qué ha pasado con la demanda de las elecciones?"
   arbitraje:
     title: "¿Qué ha pasado con el arbitraje del GV?"
   elecciones:
