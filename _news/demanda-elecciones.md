@@ -1,6 +1,6 @@
 ---
 title: "news.demanda_elecciones.title"
-date: 2026-07-17
+date: 2026-07-16
 weight: 3
 ---
 
