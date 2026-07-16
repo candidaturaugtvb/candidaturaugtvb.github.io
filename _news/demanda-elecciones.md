@@ -4,4 +4,4 @@ date: 2026-07-17
 weight: 3
 ---
 
-{% tf _news/demanda_elecciones.md %}
+{% tf _news/demanda-elecciones.md %}
