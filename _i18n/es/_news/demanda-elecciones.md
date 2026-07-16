@@ -1,6 +1,4 @@
-Kaixo\! Hace un par de semanas recibimos la sentencia del juicio sobre la demanda interpuesta por Vicomtech sobre las elecciones de la la Representación Legal de los Trabajadores y Trabajadoras (RLT).
-
-**¿Qué ha pasado con la demanda?**
+Hace un par de semanas recibimos la sentencia del juicio sobre la demanda interpuesta por Vicomtech sobre las elecciones de la Representación Legal de los Trabajadores y Trabajadoras (RLT).
 
 El juez ha dictado sentencia en la que estima la demanda de Vicomtech, anulando el fallo del arbitraje. Los estudiantes en prácticas a los que el arbitraje les había reconocido su derecho a votar verdaderamente no disponen de él, ya que no están regulados por el RD 1065/2025, si no por el RD 592/2014. Según el RD 592/2014, “dado el carácter formativo de las prácticas externas, de su realización no se derivarán, en ningún caso, obligaciones propias de una relación laboral”. Es por ello que el juez entiende que no adquieren tampoco ningún derecho en materia electoral. Por tanto, el juez ha dictaminado que no se deben repetir las elecciones, y que la votación que se realizó el 8 de mayo, así como sus resultados, son válidos y vigentes. Esto es, **Itxaso, Julen y Javi somos ya oficialmente delegados de personal**.
 
